@@ -1,0 +1,2798 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PDF & Print by BestWebSoft\n"
+"POT-Creation-Date: 2025-02-24 14:46+0200\n"
+"PO-Revision-Date: 2025-02-24 14:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pdf-print.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: bws_menu\n"
+
+# automatic translation
+#: includes/class-pdfprnt-buttons-widget.php:14
+msgid "PDF & Print Buttons"
+msgstr "PDF & 印刷ボタン"
+
+# automatic translation
+#: includes/class-pdfprnt-buttons-widget.php:14
+msgid "Show PDF & Print Buttons on your site"
+msgstr "サイトに PDF と印刷ボタンを表示する"
+
+# automatic translation
+#: includes/class-pdfprnt-buttons-widget.php:58 pdf-print.php:530
+msgid "View PDF"
+msgstr "PDFを見る"
+
+# automatic translation
+#: includes/class-pdfprnt-buttons-widget.php:77 pdf-print.php:530
+msgid "Print Content"
+msgstr "印刷内容"
+
+# automatic translation
+#: includes/class-pdfprnt-buttons-widget.php:138
+#: includes/class-pdfprnt-settings.php:671 includes/pro_banners.php:396
+#: includes/pro_banners.php:486
+msgid "Title"
+msgstr "タイトル"
+
+# automatic translation
+#: includes/class-pdfprnt-buttons-widget.php:143
+msgid "Display PDF Button"
+msgstr "PDF表示ボタン"
+
+# automatic translation
+#: includes/class-pdfprnt-buttons-widget.php:147
+msgid "Display Print Button"
+msgstr "印刷ボタンの表示"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:92 pdf-print.php:45 pdf-print.php:986
+#: pdf-print.php:1006
+msgid "Settings"
+msgstr "設定"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:93
+msgid "Output"
+msgstr "出力"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:95
+msgid "Display"
+msgstr "画面"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:98
+msgid "Misc"
+msgstr "その他"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:100
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:103
+msgid "Custom Code"
+msgstr "カスタムコード"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:104
+msgid "License Key"
+msgstr "ライセンスキー"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:129 pdf-print.php:470
+msgid "PDF"
+msgstr "PDF"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:130 pdf-print.php:475
+msgid "Print"
+msgstr "印刷する"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:143
+msgid "Search results"
+msgstr "の検索結果"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:144
+msgid "Archives"
+msgstr "アーカイブ"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:145
+msgid "Posts page"
+msgstr "投稿ページ"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:153
+msgid "Top Left"
+msgstr "左上"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:154
+msgid "Top Right"
+msgstr "右上"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:155
+msgid "Bottom Left"
+msgstr "左下"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:156
+msgid "Bottom Right"
+msgstr "右下"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:157
+msgid "Top & Bottom Left"
+msgstr "左上と左下"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:158
+msgid "Top & Bottom Right"
+msgstr "右上と右下"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:162 includes/pro_banners.php:210
+msgid "None"
+msgstr "なし"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:163 includes/pro_banners.php:307
+msgid "Default"
+msgstr "デフォルト"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:167
+msgid "Top"
+msgstr "上"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:168
+msgid "Bottom"
+msgstr "下"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:169
+msgid "Left"
+msgstr "左"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:170
+msgid "Right"
+msgstr "右"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:206
+msgid "Please enable JavaScript in your browser."
+msgstr "ブラウザで JavaScript を有効にしてください。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:208
+#, php-format
+msgid ""
+"Pdf&Print plugin requires PHP %s or higher. Please contact your hosting "
+"provider to upgrade PHP version."
+msgstr ""
+"Pdf&Print プラグインには PHP %s 以降が必要です。 PHP のバージョンをアップグ"
+"レードするには、ホスティング プロバイダーにお問い合わせください。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:232
+msgid "Warning: Not enough permissions for the folder"
+msgstr "警告: フォルダに対する十分な権限がありません"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:235
+#, php-format
+msgid ""
+"Please check and change permissions for your plugins folder (for folders - "
+"755, for files - 644). For more info, please see %1$s and %2$s."
+msgstr ""
+"プラグイン フォルダーのアクセス許可を確認して変更してください (フォルダーの場"
+"合 - 755、ファイルの場合 - 644)。詳細については、%1$s と %2$s を参照してくだ"
+"さい。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:236
+msgid "Changing File Permissions"
+msgstr "ファイル権限の変更"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:237
+#: includes/class-pdfprnt-settings.php:268
+#: includes/class-pdfprnt-settings.php:280
+#: includes/class-pdfprnt-settings.php:739 pdf-print.php:1008
+#: pdf-print.php:1039
+msgid "FAQ"
+msgstr "よくある質問"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:253
+#, php-format
+msgid "The folder %s was removed."
+msgstr "フォルダ %s は削除されました。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:261
+#, php-format
+msgid "Some fonts were removed from %s folder."
+msgstr "%s フォルダから一部のフォントが削除されました。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:267 pdf-print.php:1038
+#, php-format
+msgid "It is necessary to reload fonts. For more info, please see %s."
+msgstr ""
+"フォントをリロードする必要があります。詳細については、%s を参照してください。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:279
+#, php-format
+msgid "It is necessary to reload fonts. For more info, please see %s"
+msgstr ""
+"フォントをリロードする必要があります。詳細については、%s を参照してください"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:300
+msgid ""
+"The new version of the mPDF library which compatible with PHP V8.x.x is "
+"available now! Go to the Misc tab and upgrade the mPDF library if you run "
+"into errors or want to use the latest version."
+msgstr ""
+"PHP V8.x.x と互換性のある mPDF ライブラリの新バージョンが利用可能になりまし"
+"た！エラーが発生した場合や最新版を使用したい場合は、 「その他」タブで mPDF ラ"
+"イブラリをアップグレードしてください。"
+
+#: includes/class-pdfprnt-settings.php:338
+msgid "Sorry, your nonce did not verify."
+msgstr "申し訳ありませんが、nonceは確認できませんでした。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:409
+msgid "You have entered too much text in the \"edit styles\" field."
+msgstr "「スタイルの編集」フィールドに入力したテキストが多すぎます。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:430
+msgid "Settings saved."
+msgstr "保存された設定。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:440 pdf-print.php:44 pdf-print.php:45
+#: pdf-print.php:320
+msgid "PDF & Print Settings"
+msgstr "PDF & 印刷設定"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:445
+msgid "Add Button to"
+msgstr "ボタンを追加"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:461
+msgid ""
+"Follow the instruction in order to add the PDF & Print button to a custom "
+"post or page template."
+msgstr ""
+"カスタム投稿またはページ テンプレートに [PDF & 印刷] ボタンを追加するには、指"
+"示に従います。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:461 includes/pro_banners.php:582
+#: includes/pro_banners.php:637
+msgid "Learn More"
+msgstr "もっと詳しく知る"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:465
+msgid "Buttons Position"
+msgstr "ボタンの位置"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:476
+msgid "Select buttons position in the content (default is Top Right)."
+msgstr "コンテンツ内のボタンの位置を選択します (デフォルトは右上です)。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:480
+msgid "Button Image"
+msgstr "ボタン画像"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:492
+msgid "Default Image"
+msgstr "デフォルトの画像"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:505
+msgid "Button Title"
+msgstr "ボタンのタイトル"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:518
+msgid "Print Preview Window"
+msgstr "印刷プレビュー ウィンドウ"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:522
+msgid "Enable to display print preview window with advanced settings."
+msgstr "高度な設定で印刷プレビュー ウィンドウを表示できるようにします。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:533
+msgid "Default PDF Button Action"
+msgstr "デフォルトの PDF ボタン アクション"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:537 pdf-print.php:530
+msgid "Download PDF"
+msgstr "PDFをダウンロード"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:540
+msgid "Open PDF"
+msgstr "PDFを開く"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:546
+msgid "Default Print Button Action"
+msgstr "デフォルトの印刷ボタンの動作"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:550
+msgid "Plugin functions"
+msgstr "プラグイン機能"
+
+#: includes/class-pdfprnt-settings.php:553
+msgid "CTRL + P"
+msgstr "Ctrl + P"
+
+#: includes/class-pdfprnt-settings.php:553
+msgid "simulate the CTRL + P keyboard shortcut"
+msgstr "CTRL + Pキーボードショートカットをシミュレートする"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:559
+msgid "Enable Buttons for"
+msgstr "ボタンを有効にする"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:563 includes/pro_banners.php:362
+msgid "All"
+msgstr "全て"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:577
+msgid "Unauthorized"
+msgstr "無許可"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:592
+msgid "Document Output Settings"
+msgstr "ドキュメント出力設定"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:600
+msgid "Full Page Capture to PDF"
+msgstr "ページ全体を PDF にキャプチャ"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:604
+msgid ""
+"Enable to take a screenshot of the entire page and generate a PDF file from "
+"it."
+msgstr ""
+"ページ全体のスクリーンショットを撮り、そこから PDF ファイルを生成できるように"
+"します。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:609
+msgid "PDF Page Size"
+msgstr "PDFページサイズ"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:625
+msgid "Margins"
+msgstr "余白"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:632
+msgid "px"
+msgstr "ピクセル"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:641
+msgid "Print Shortcodes"
+msgstr "ショートコードを印刷する"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:645
+msgid ""
+"Enable to print shortcodes with data generated by other plugins "
+"(recommended)."
+msgstr ""
+"他のプラグインによって生成されたデータでショートコードを印刷できるようにしま"
+"す (推奨)。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:650
+msgid "Remove Links"
+msgstr "リンクを削除"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:654
+msgid "Enable to remove links from PDF and Print document."
+msgstr "PDF および印刷ドキュメントからリンクを削除できるようにします。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:659
+msgid "Link Annotations"
+msgstr "リンク注釈"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:663
+msgid "Enable to remove hover link styles in PDF document."
+msgstr "PDF ドキュメントでホバー リンク スタイルを削除できるようにします。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:668
+msgid "Additional Elements"
+msgstr "追加要素"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:672
+msgid "Author"
+msgstr "著者"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:674
+#: includes/class-pdfprnt-settings.php:678
+#: includes/class-pdfprnt-settings.php:683
+msgid "for posts only"
+msgstr "投稿のみ"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:676
+msgid "Date"
+msgstr "日にち"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:680
+msgid "Featured image"
+msgstr "アイキャッチ画像"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:681 pdf-print.php:1323
+#: pdf-print.php:1453
+msgid "Category"
+msgstr "カテゴリー"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:690
+msgid "Featured Image Size"
+msgstr "アイキャッチ画像サイズ"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:717
+msgid "Additional Fonts"
+msgstr "追加のフォント"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:725
+msgid "Reload Fonts"
+msgstr "フォントの再読み込み"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:727
+msgid "Load Fonts"
+msgstr "フォントを読み込む"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:734
+msgid "Additional fonts were loaded successfully"
+msgstr "追加のフォントが正常に読み込まれました"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:739
+msgid ""
+"If you have some problems with your internet connection, please, try to load "
+"additional fonts manually. For more info, please see"
+msgstr ""
+"インターネット接続に問題がある場合は、追加のフォントを手動でロードしてみてく"
+"ださい。詳しくは、以下をご覧ください。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:741
+msgid "Load additional fonts required for correct PDF file(-s) display."
+msgstr ""
+"PDF ファイル (-s) を正しく表示するために必要な追加のフォントをロードします。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:745
+#: includes/class-pdfprnt-settings.php:909
+msgid "WARNING"
+msgstr "警告"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:745
+msgid ""
+"ZipArchive Class is not installed on your server. It is impossible to load "
+"additional fonts."
+msgstr ""
+"ZipArchive クラスがサーバーにインストールされていません。追加のフォントをロー"
+"ドすることはできません。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:753
+msgid "Default CSS"
+msgstr "デフォルトの CSS"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:758
+msgid "Enable to apply CSS from the current theme. Disable to use default CSS."
+msgstr ""
+"現在のテーマから CSS を適用できるようにします。デフォルト CSS の使用を無効に"
+"します。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:764
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:769
+msgid "Enable to add custom CSS code to documents."
+msgstr "カスタム CSS コードをドキュメントに追加できるようにします。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:790
+msgid "Display Settings"
+msgstr "ディスプレイの設定"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:803
+msgid "Custom Fields Settings"
+msgstr "カスタム フィールドの設定"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:818
+msgid "PDF & Print Shortcode"
+msgstr "PDF & 印刷用ショートコード"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:821
+msgid "Add PDF & Print buttons to a widget."
+msgstr "ウィジェットに PDF と印刷ボタンを追加します。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:821
+msgid "Navigate to Widgets"
+msgstr "ウィジェットに移動"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:824
+msgid "Add PDF button to your posts or pages using the following shortcode:"
+msgstr ""
+"次のショートコードを使用して、投稿またはページに PDF ボタンを追加します。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:828
+msgid "Add Print button to your posts or pages using the following shortcode:"
+msgstr ""
+"次のショートコードを使用して、投稿またはページに印刷ボタンを追加します。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:832
+msgid ""
+"Add PDF & Print buttons to your posts or pages using the following shortcode:"
+msgstr ""
+"次のショートコードを使用して、PDF & 印刷ボタンを投稿またはページに追加しま"
+"す。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:836
+msgid "Create a page break in PDF document:"
+msgstr "PDF ドキュメントで改ページを作成する:"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:856 includes/pro_banners.php:27
+msgid "Close"
+msgstr "近い"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:890
+msgid "Upgrade the mPDF library"
+msgstr "mPDF ライブラリをアップグレードする"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:895
+msgid "Upgrade"
+msgstr "アップグレード"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:903
+#, php-format
+msgid ""
+"This will upgrade the mPDF library to version %s (recommended). The new "
+"version of the mPDF library is compatible with PHP V7.2.x and older"
+msgstr ""
+"これにより mPDF ライブラリがバージョン %s (推奨) にアップグレードされます。新"
+"しいバージョンの mPDF ライブラリは PHP V7.2.x 以降と互換性があります。"
+
+# automatic translation
+#: includes/class-pdfprnt-settings.php:909
+msgid ""
+"ZipArchive сlass is not installed on your server. It is impossible to "
+"upgrade the mPDF library."
+msgstr ""
+"ZipArchive クラスがサーバーにインストールされていません。 mPDF ライブラリを"
+"アップグレードすることはできません。"
+
+# automatic translation
+#: includes/pro_banners.php:24
+msgid "This options is available in Pro version of the plugin"
+msgstr "このオプションは、プラグインの Pro バージョンで利用できます"
+
+# automatic translation
+#: includes/pro_banners.php:33 pdf-print.php:50 pdf-print.php:390
+msgid "Upgrade to Pro"
+msgstr "プロ仕様にアップグレードする"
+
+# automatic translation
+#: includes/pro_banners.php:52 includes/pro_banners.php:95
+msgid "Custom"
+msgstr "カスタム"
+
+# automatic translation
+#: includes/pro_banners.php:70
+msgid "Search Engine Visibility"
+msgstr "検索エンジンの可視性"
+
+# automatic translation
+#: includes/pro_banners.php:73
+msgid "Enable to disallow search engines from indexing PDF & Print pages."
+msgstr ""
+"検索エンジンによる PDF および印刷ページのインデックス作成を許可しないようにし"
+"ます。"
+
+# automatic translation
+#: includes/pro_banners.php:91
+msgid "Default PDF File Name"
+msgstr "デフォルトの PDF ファイル名"
+
+# automatic translation
+#: includes/pro_banners.php:94
+msgid "Post/page slug"
+msgstr "投稿/ページ スラッグ"
+
+# automatic translation
+#: includes/pro_banners.php:98
+msgid ""
+"File name cannot contain more than 195 symbols. The file name can include "
+"Latin letters, numbers and symbols."
+msgstr ""
+"ファイル名に 195 個を超える記号を含めることはできません。ファイル名には、ラテ"
+"ン文字、数字、および記号を含めることができます。"
+
+# automatic translation
+#: includes/pro_banners.php:100 includes/pro_banners.php:559
+#: includes/pro_banners.php:614
+msgid "Available shortcodes"
+msgstr "利用可能なショートコード"
+
+# automatic translation
+#: includes/pro_banners.php:102
+msgid "The full date when the post was created"
+msgstr "投稿が作成された完全な日付"
+
+# automatic translation
+#: includes/pro_banners.php:105
+msgid "Title of the post."
+msgstr "投稿のタイトル。"
+
+# automatic translation
+#: includes/pro_banners.php:108
+msgid "Title of the site."
+msgstr "サイトのタイトル。"
+
+# automatic translation
+#: includes/pro_banners.php:111
+msgid "Author of the post."
+msgstr "投稿者。"
+
+# automatic translation
+#: includes/pro_banners.php:114
+msgid "The year when the post was created."
+msgstr "投稿が作成された年。"
+
+# automatic translation
+#: includes/pro_banners.php:117
+msgid "The month when the post was created."
+msgstr "投稿が作成された月。"
+
+# automatic translation
+#: includes/pro_banners.php:120
+msgid "The day when the post was created."
+msgstr "投稿が作成された日。"
+
+# automatic translation
+#: includes/pro_banners.php:127
+msgid "Layout"
+msgstr "レイアウト"
+
+# automatic translation
+#: includes/pro_banners.php:143
+msgid "Portrait"
+msgstr "肖像画"
+
+# automatic translation
+#: includes/pro_banners.php:144
+msgid "Landscape"
+msgstr "風景"
+
+# automatic translation
+#: includes/pro_banners.php:181
+msgid "\"Written by\" Text"
+msgstr "「によって書かれた」テキスト"
+
+# automatic translation
+#: includes/pro_banners.php:185
+msgid "Enable to add \"Written by\" text before an author's name."
+msgstr "著者名の前に「執筆者」のテキストを追加できるようにします。"
+
+# automatic translation
+#: includes/pro_banners.php:190
+msgid "WooCommerce Product Details"
+msgstr "WooCommerce 製品の詳細"
+
+# automatic translation
+#: includes/pro_banners.php:193
+msgid "Short Description"
+msgstr "簡単な説明"
+
+# automatic translation
+#: includes/pro_banners.php:194
+msgid "Price"
+msgstr "価格"
+
+# automatic translation
+#: includes/pro_banners.php:195
+msgid "SKU"
+msgstr "SKU"
+
+# automatic translation
+#: includes/pro_banners.php:196
+msgid "Gallery"
+msgstr "ギャラリー"
+
+# automatic translation
+#: includes/pro_banners.php:197
+msgid "Rating"
+msgstr "評価"
+
+# automatic translation
+#: includes/pro_banners.php:198
+msgid "Stock"
+msgstr "ストック"
+
+# automatic translation
+#: includes/pro_banners.php:199
+msgid "Variations"
+msgstr "バリエーション"
+
+# automatic translation
+#: includes/pro_banners.php:200
+msgid "Categories"
+msgstr "カテゴリー"
+
+# automatic translation
+#: includes/pro_banners.php:201
+msgid "Tags"
+msgstr "タグ"
+
+# automatic translation
+#: includes/pro_banners.php:202
+msgid "Additional information"
+msgstr "追加情報"
+
+# automatic translation
+#: includes/pro_banners.php:207
+msgid "Watermark Protection"
+msgstr "透かし保護"
+
+# automatic translation
+#: includes/pro_banners.php:211
+msgid "Text"
+msgstr "文章"
+
+# automatic translation
+#: includes/pro_banners.php:215
+msgid "Image"
+msgstr "画像"
+
+# automatic translation
+#: includes/pro_banners.php:220
+msgid "Watermark Opacity"
+msgstr "透かしの不透明度"
+
+# automatic translation
+#: includes/pro_banners.php:232
+msgid "Prevent Copying"
+msgstr "コピー防止"
+
+# automatic translation
+#: includes/pro_banners.php:236
+msgid "Enable to prevent PDF files from being copied."
+msgstr "PDF ファイルのコピーを防止する場合に有効にします。"
+
+# automatic translation
+#: includes/pro_banners.php:241
+msgid "Show Advanced Custom Fields"
+msgstr "高度なカスタム フィールドを表示"
+
+# automatic translation
+#: includes/pro_banners.php:245
+msgid "Enable to show all Advanced Custom Fields."
+msgstr "すべての高度なカスタム フィールドを表示できるようにします。"
+
+# automatic translation
+#: includes/pro_banners.php:260
+msgid ""
+"Choose the necessary post types (or single pages) where PDF & Print buttons "
+"will be displayed"
+msgstr ""
+"PDF & 印刷ボタンが表示される必要な投稿タイプ (または単一ページ) を選択します"
+
+# automatic translation
+#: includes/pro_banners.php:264
+msgid "Show URL"
+msgstr "URL を表示"
+
+# automatic translation
+#: includes/pro_banners.php:279
+msgid "Available Registered Post Types:"
+msgstr "利用可能な書留郵便の種類:"
+
+# automatic translation
+#: includes/pro_banners.php:282
+msgid ""
+"Add custom fields and custom data before/after PDF & Print document's content"
+msgstr ""
+"PDF および印刷ドキュメントのコンテンツの前後にカスタム フィールドとカスタム "
+"データを追加"
+
+# automatic translation
+#: includes/pro_banners.php:285
+msgid "Posts"
+msgstr "投稿"
+
+# automatic translation
+#: includes/pro_banners.php:289
+msgid "Data Before Content"
+msgstr "コンテンツの前のデータ"
+
+# automatic translation
+#: includes/pro_banners.php:292
+msgid "Enable to show data before page title"
+msgstr "ページ タイトルの前にデータを表示できるようにする"
+
+# automatic translation
+#: includes/pro_banners.php:298
+msgid "Data After Content"
+msgstr "コンテンツの後のデータ"
+
+# automatic translation
+#: includes/pro_banners.php:303
+msgid "Custom Fields Displaying"
+msgstr "カスタム フィールドの表示"
+
+# automatic translation
+#: includes/pro_banners.php:310
+msgid ""
+"Custom fields are shown by default. You can hide them using \"Do not show "
+"PDF & Print Custom fields\" option."
+msgstr ""
+"カスタム フィールドはデフォルトで表示されます。 「PDFを表示しないでカスタム"
+"フィールドを印刷する」オプションを使用して非表示にすることができます。"
+
+# automatic translation
+#: includes/pro_banners.php:315
+msgid "Force Hide"
+msgstr "強制非表示"
+
+# automatic translation
+#: includes/pro_banners.php:318
+msgid ""
+"Custom fields are hidden even if the \"Show PDF & Print Custom Fields\" "
+"option is enabled."
+msgstr ""
+"[PDF を表示してカスタム フィールドを印刷] オプションが有効になっている場合で"
+"も、カスタム フィールドは非表示になります。"
+
+# automatic translation
+#: includes/pro_banners.php:323
+msgid "Force Show"
+msgstr "フォースショー"
+
+# automatic translation
+#: includes/pro_banners.php:326
+msgid ""
+"Custom fields are visible even if the \"Show PDF & Print Custom Fields\" "
+"option is disabled."
+msgstr ""
+"[PDF を表示してカスタム フィールドを印刷] オプションが無効になっていても、カ"
+"スタム フィールドが表示されます。"
+
+# automatic translation
+#: includes/pro_banners.php:333
+msgid "Disable the \"Show PDF & Print Custom Fields\" option"
+msgstr "[PDF を表示してカスタム フィールドを印刷] オプションを無効にする"
+
+# automatic translation
+#: includes/pro_banners.php:336
+msgid "Disable Now"
+msgstr "今すぐ無効にする"
+
+# automatic translation
+#: includes/pro_banners.php:338
+msgid "Disable the \"Show PDF & Print Custom Fields\" option for all Posts."
+msgstr ""
+"すべての投稿で [PDF を表示してカスタム フィールドを印刷] オプションを無効にし"
+"ます。"
+
+# automatic translation
+#: includes/pro_banners.php:344
+msgid "Pages"
+msgstr "ページ"
+
+# automatic translation
+#: includes/pro_banners.php:345
+msgid "Products"
+msgstr "製品"
+
+# automatic translation
+#: includes/pro_banners.php:363 includes/pro_banners.php:374
+#: includes/pro_banners.php:417 includes/pro_banners.php:440
+#: includes/pro_banners.php:463 includes/pro_banners.php:505
+msgid "Trash"
+msgstr "ごみ"
+
+# automatic translation
+#: includes/pro_banners.php:366 includes/pro_banners.php:368
+msgid "search"
+msgstr "検索"
+
+# automatic translation
+#: includes/pro_banners.php:373 includes/pro_banners.php:504
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+# automatic translation
+#: includes/pro_banners.php:376 includes/pro_banners.php:507
+msgid "Apply"
+msgstr "申し込み"
+
+# automatic translation
+#: includes/pro_banners.php:379 includes/pro_banners.php:510
+msgid "items"
+msgstr "アイテム"
+
+# automatic translation
+#: includes/pro_banners.php:392
+msgid "Select All"
+msgstr "すべて選択"
+
+# automatic translation
+#: includes/pro_banners.php:402 includes/pro_banners.php:430
+#: includes/pro_banners.php:453 includes/pro_banners.php:476
+#: includes/pro_banners.php:494
+msgid "Date Added"
+msgstr "追加日"
+
+# automatic translation
+#: includes/pro_banners.php:416 includes/pro_banners.php:439
+#: includes/pro_banners.php:462
+msgid "Edit"
+msgstr "編集"
+
+# automatic translation
+#: includes/pro_banners.php:530
+msgid "Enter Title"
+msgstr "タイトルを入力"
+
+# automatic translation
+#: includes/pro_banners.php:534
+msgid "Header"
+msgstr "ヘッダ"
+
+# automatic translation
+#: includes/pro_banners.php:561 includes/pro_banners.php:616
+msgid "Current page number (for PDF only)"
+msgstr "現在のページ番号 (PDF のみ)"
+
+# automatic translation
+#: includes/pro_banners.php:564 includes/pro_banners.php:619
+msgid "Title of the post (for single posts or pages only)"
+msgstr "投稿のタイトル (単一の投稿またはページのみ)"
+
+# automatic translation
+#: includes/pro_banners.php:567 includes/pro_banners.php:622
+msgid "Number of all pages in the document (for PDF only)"
+msgstr "ドキュメントの全ページ数 (PDF のみ)"
+
+# automatic translation
+#: includes/pro_banners.php:570 includes/pro_banners.php:625
+msgid "Link to the page where the document was generated"
+msgstr "ドキュメントが生成されたページへのリンク"
+
+# automatic translation
+#: includes/pro_banners.php:573 includes/pro_banners.php:628
+msgid "Current date"
+msgstr "現在の日付"
+
+# automatic translation
+#: includes/pro_banners.php:576 includes/pro_banners.php:631
+msgid "The date when the post was created"
+msgstr "投稿が作成された日付"
+
+# automatic translation
+#: includes/pro_banners.php:576 includes/pro_banners.php:631
+msgid ""
+"this shortcode will be replaced to the current date on search or archive "
+"pages"
+msgstr ""
+"このショートコードは、検索ページまたはアーカイブ ページで現在の日付に置き換え"
+"られます"
+
+# automatic translation
+#: includes/pro_banners.php:579 includes/pro_banners.php:634
+msgid ""
+"You can specify your own DateTime format for {DATE} and {POSTDATE} "
+"shortcodes. For example"
+msgstr ""
+"{DATE} および {POSTDATE} ショートコードに独自の DateTime 形式を指定できます。"
+"例えば"
+
+# automatic translation
+#: includes/pro_banners.php:581 includes/pro_banners.php:636
+msgid "or"
+msgstr "また"
+
+# automatic translation
+#: includes/pro_banners.php:584 includes/pro_banners.php:639
+msgid "Author of the post"
+msgstr "投稿者"
+
+# automatic translation
+#: includes/pro_banners.php:584 includes/pro_banners.php:639
+msgid "for single posts or pages only"
+msgstr "単一の投稿またはページのみ"
+
+# automatic translation
+#: includes/pro_banners.php:589
+msgid "Footer"
+msgstr "フッター"
+
+# automatic translation
+#: includes/pro_banners.php:649 includes/pro_banners.php:660
+msgid "Publish"
+msgstr "公開"
+
+# automatic translation
+#: includes/pro_banners.php:656
+msgid "Status"
+msgstr "スターテス"
+
+# automatic translation
+#: includes/pro_banners.php:656
+msgid "New"
+msgstr "新しい"
+
+# automatic translation
+#: includes/pro_banners.php:660
+msgid "immediately"
+msgstr "すぐに"
+
+# automatic translation
+#: includes/pro_banners.php:668
+msgid "Save Changes"
+msgstr "変更内容を保存"
+
+# automatic translation
+#: pdf-print.php:46 pdf-print.php:349
+msgid "Headers & Footers"
+msgstr "ヘッダーとフッター"
+
+# automatic translation
+#: pdf-print.php:345 pdf-print.php:356
+msgid "Add New"
+msgstr "新しく追加する"
+
+# automatic translation
+#: pdf-print.php:346
+msgid "Header & Footer Template"
+msgstr "ヘッダーとフッターのテンプレート"
+
+# automatic translation
+#: pdf-print.php:366
+msgid "This tab contains Pro options only."
+msgstr "このタブには、Pro オプションのみが含まれます。"
+
+# automatic translation
+#: pdf-print.php:368
+#, php-format
+msgid "%1$sChange the settings%2$s to view the Pro options."
+msgstr "%1$s設定を変更%2$sしてProオプションを表示します。"
+
+# automatic translation
+#: pdf-print.php:466
+msgid "Add PDF & Print Buttons to your page or post"
+msgstr "ページまたは投稿に PDF と印刷ボタンを追加する"
+
+# automatic translation
+#: pdf-print.php:1009
+msgid "Support"
+msgstr "サポート"
+
+# automatic translation
+#: pdf-print.php:1034
+msgid "Loading of fonts. It might take a several minutes."
+msgstr "フォントの読み込み。数分かかる場合があります。"
+
+# automatic translation
+#: pdf-print.php:1035
+msgid "Loading the mPDF library. It will take few minutes."
+msgstr "mPDF ライブラリをロードしています。数分かかります。"
+
+# automatic translation
+#: pdf-print.php:1128
+#, php-format
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+# automatic translation
+#: pdf-print.php:1322 pdf-print.php:1452
+msgid "written by"
+msgstr "によって書かれた"
+
+# automatic translation
+#: pdf-print.php:1614
+msgid "Check your internet connection"
+msgstr "インターネット接続を確認してください"
+
+# automatic translation
+#: pdf-print.php:1619
+msgid "Cannot load files in to \"uploads\" folder. Check your permissions"
+msgstr ""
+"「アップロード」フォルダにファイルを読み込めません。権限を確認してください"
+
+# automatic translation
+#: pdf-print.php:1651 pdf-print.php:1779
+msgid "Additional fonts were loaded successfully."
+msgstr "追加のフォントが正常に読み込まれました。"
+
+# automatic translation
+#: pdf-print.php:1654 pdf-print.php:1698
+msgid "Some errors occurred during loading files."
+msgstr "ファイルの読み込み中にエラーが発生しました。"
+
+# automatic translation
+#: pdf-print.php:1657 pdf-print.php:1701
+msgid "Can not extract files from zip-archive."
+msgstr "zip アーカイブからファイルを抽出できません。"
+
+# automatic translation
+#: pdf-print.php:1661
+#, php-format
+msgid "Cannot create %s folder. Check your permissions."
+msgstr "%s フォルダを作成できません。権限を確認してください。"
+
+# automatic translation
+#: pdf-print.php:1695
+msgid "The mPDF library has been loaded successfully."
+msgstr "mPDF ライブラリが正常に読み込まれました。"
+
+# automatic translation
+#: pdf-print.php:1705
+#, php-format
+msgid "Cannot extract files into %s folder. Check your permissions."
+msgstr "ファイルを %s フォルダに抽出できません。権限を確認してください。"
+
+# automatic translation
+#: pdf-print.php:1964
+msgid "Test your PDF Generation Settings"
+msgstr "PDF生成設定のテスト"
+
+#: pdf-print.php:1964
+msgid ""
+"Ensure your PDF & Print plugin is correctly configured. Check your settings "
+"now!"
+msgstr ""
+"PDF & Printプラグインが正しく設定されているか確認してください。今すぐ設定を確"
+"認してください！"
+
+# automatic translation
+#. Plugin Name of the plugin/theme
+msgid "PDF & Print by BestWebSoft"
+msgstr "PDF & 印刷 by BestWebSoft"
+
+# automatic translation
+#. Plugin URI of the plugin/theme
+msgid "https://bestwebsoft.com/products/wordpress/plugins/pdf-print/"
+msgstr "https://bestwebsoft.com/products/wordpress/plugins/pdf-print/"
+
+# automatic translation
+#. Description of the plugin/theme
+msgid ""
+"Generate PDF files and print WordPress posts/pages. Customize document "
+"header/footer styles and appearance."
+msgstr ""
+"PDF ファイルを生成し、WordPress の投稿/ページを印刷します。ドキュメントのヘッ"
+"ダー/フッターのスタイルと外観をカスタマイズします。"
+
+# automatic translation
+#. Author of the plugin/theme
+msgid "BestWebSoft"
+msgstr "ベストウェブソフト"
+
+# automatic translation
+#. Author URI of the plugin/theme
+msgid "https://bestwebsoft.com/"
+msgstr "https://bestwebsoft.com/"
+
+# automatic translation
+#~ msgid "requires"
+#~ msgstr "必要"
+
+# automatic translation
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "それ以上の場合、それが非アクティブ化された理由です! WordPress をアップグ"
+#~ "レードしてから、もう一度お試しください。"
+
+# automatic translation
+#~ msgid "Back to the WordPress"
+#~ msgstr "ワードプレスに戻る"
+
+# automatic translation
+#~ msgid "Plugins page"
+#~ msgstr "プラグインページ"
+
+# automatic translation
+#~ msgid "Like the plugin?"
+#~ msgstr "プラグインが好きですか？"
+
+# automatic translation
+#, php-format
+#~ msgid "%s reviews"
+#~ msgstr "%s 件のレビュー"
+
+# automatic translation
+#~ msgid "Rate it"
+#~ msgstr "それを評価"
+
+# automatic translation
+#~ msgid "Need help?"
+#~ msgstr "助けが必要？"
+
+# automatic translation
+#~ msgid "Visit Help Center"
+#~ msgstr "ヘルプセンターにアクセス"
+
+# automatic translation
+#~ msgid "Want to support the plugin?"
+#~ msgstr "プラグインをサポートしたいですか？"
+
+# automatic translation
+#~ msgid "Donate"
+#~ msgstr "寄付"
+
+# automatic translation
+#~ msgid "WARNING: Illegal use notification"
+#~ msgstr "警告: 不正使用の通知"
+
+# automatic translation
+#~ msgid ""
+#~ "You can use one license of the Pro plugin for one domain only. Please "
+#~ "check and edit your license or domain if necessary using your personal "
+#~ "Client Area. We strongly recommend you to solve the problem within 24 "
+#~ "hours, otherwise the Pro plugin will be deactivated."
+#~ msgstr ""
+#~ "Pro プラグインの 1 つのライセンスは、1 つのドメインに対してのみ使用できま"
+#~ "す。必要に応じて、個人のクライアント エリアを使用して、ライセンスまたはド"
+#~ "メインを確認して編集してください。 24 時間以内に問題を解決することを強くお"
+#~ "勧めします。そうしないと、Pro プラグインが無効になります。"
+
+# automatic translation
+#~ msgid ""
+#~ "Notice: Your Pro Trial license has expired. To continue using the plugin, "
+#~ "you should buy a Pro license"
+#~ msgstr ""
+#~ "注意: Pro トライアル ライセンスの有効期限が切れています。プラグインを引き"
+#~ "続き使用するには、Pro ライセンスを購入する必要があります"
+
+# automatic translation
+#~ msgid ""
+#~ "Your license has expired. To continue getting top-priority support and "
+#~ "plugin updates, you should extend it."
+#~ msgstr ""
+#~ "ライセンスの有効期限が切れています。最優先のサポートとプラグインの更新を引"
+#~ "き続き取得するには、延長する必要があります。"
+
+# automatic translation
+#~ msgid "Learn more"
+#~ msgstr "もっと詳しく知る"
+
+# automatic translation
+#, php-format
+#~ msgid "Notice: You are using the Pro Trial license of %s plugin."
+#~ msgstr "注意: %s プラグインのプロ トライアル ライセンスを使用しています。"
+
+# automatic translation
+#~ msgid "Notice: You are using the Pro Trial license of plugin."
+#~ msgstr "注意: プラグインのプロ トライアル ライセンスを使用しています。"
+
+# automatic translation
+#~ msgid "The Pro Trial license will expire on"
+#~ msgstr "プロ トライアル ライセンスの有効期限は次のとおりです。"
+
+# automatic translation
+#~ msgid "Close notice"
+#~ msgstr "お知らせを閉じる"
+
+# automatic translation
+#~ msgid "It’s time to upgrade your"
+#~ msgstr "アップグレードする時が来ました"
+
+# automatic translation
+#~ msgid "to"
+#~ msgstr "に"
+
+# automatic translation
+#~ msgid "version!"
+#~ msgstr "バージョン！"
+
+# automatic translation
+#~ msgid "Extend standard plugin functionality with new great options."
+#~ msgstr "新しい優れたオプションで標準のプラグイン機能を拡張します。"
+
+# automatic translation
+#, php-format
+#~ msgid ""
+#~ "Your license key for %1$s expires on %2$s and you won't be granted TOP-"
+#~ "PRIORITY SUPPORT or UPDATES."
+#~ msgstr ""
+#~ "%1$s のライセンス キーは %2$s に期限切れになり、最優先のサポートまたは更新"
+#~ "は許可されません。"
+
+# automatic translation
+#~ msgid ""
+#~ "or higher! We do not guarantee that our plugin will work correctly. "
+#~ "Please upgrade to WordPress latest version."
+#~ msgstr ""
+#~ "以上！プラグインが正しく動作することを保証するものではありません。 "
+#~ "WordPress の最新バージョンにアップグレードしてください。"
+
+# automatic translation
+#, php-format
+#~ msgid "Thank you for installing %s plugin!"
+#~ msgstr "%s プラグインをインストールしていただきありがとうございます!"
+
+# automatic translation
+#~ msgid "Let's get started"
+#~ msgstr "始めましょう"
+
+# automatic translation
+#~ msgid "Thank you for installing plugins by BestWebSoft!"
+#~ msgstr ""
+#~ "BestWebSoft のプラグインをインストールしていただきありがとうございます。"
+
+# automatic translation
+#~ msgid "More Details"
+#~ msgstr "詳細"
+
+# automatic translation
+#~ msgid "Less Details"
+#~ msgstr "詳細を非表示"
+
+# automatic translation
+#~ msgid "Deprecated function(-s) is used on the site here:"
+#~ msgstr "非推奨の関数 (-s) は、次のサイトで使用されています。"
+
+# automatic translation
+#~ msgid ""
+#~ "This function(-s) will be removed over time. Please update the product(-"
+#~ "s)."
+#~ msgstr ""
+#~ "この機能 (-s) は、時間の経過とともに削除されます。製品を更新してください(-"
+#~ "s)。"
+
+# automatic translation
+#, php-format
+#~ msgid "Thank you for choosing %s plugin!"
+#~ msgstr "%s プラグインをお選びいただきありがとうございます!"
+
+# automatic translation
+#~ msgid ""
+#~ "If you have a feature, suggestion or idea you'd like to see in the "
+#~ "plugin, we'd love to hear about it!"
+#~ msgstr ""
+#~ "プラグインに追加してほしい機能、提案、またはアイデアがあれば、ぜひお知らせ"
+#~ "ください。"
+
+# automatic translation
+#~ msgid "Suggest a Feature"
+#~ msgstr "機能を提案する"
+
+# automatic translation
+#~ msgid "Affiliate Program"
+#~ msgstr "アフィリエイトプログラム"
+
+# automatic translation
+#, php-format
+#~ msgid "Get %s"
+#~ msgstr "取得"
+
+# automatic translation
+#~ msgid "from each BestWebSoft plugin and theme sale you refer"
+#~ msgstr "あなたが参照する各BestWebSoftプラグインとテーマの販売から"
+
+# automatic translation
+#~ msgid "Join affiliate program"
+#~ msgstr "アフィリエイト プログラムに参加する"
+
+# automatic translation
+#~ msgid "Promote and sell products"
+#~ msgstr "製品の宣伝と販売"
+
+# automatic translation
+#~ msgid "Get commission!"
+#~ msgstr "コミッションをゲット！"
+
+# automatic translation
+#~ msgid "Start Now"
+#~ msgstr "今すぐ開始"
+
+# automatic translation
+#~ msgid "Notice"
+#~ msgstr "知らせ"
+
+# automatic translation
+#~ msgid "The plugin's settings have been changed."
+#~ msgstr "プラグインの設定が変更されました。"
+
+# automatic translation
+#~ msgid ""
+#~ "You can always look at premium options by checking the \"Pro Options\" in "
+#~ "the \"Misc\" tab."
+#~ msgstr ""
+#~ "「その他」タブの「プロ オプション」をチェックすると、いつでもプレミアム オ"
+#~ "プションを確認できます。"
+
+# automatic translation
+#~ msgid "Add BWS Shortcode"
+#~ msgstr "BWSショートコードを追加"
+
+# automatic translation
+#~ msgid "Add BWS Plugins Shortcode"
+#~ msgstr "BWS プラグイン ショートコードを追加する"
+
+# automatic translation
+#~ msgid "Add shortcode"
+#~ msgstr "ショートコードを追加"
+
+# automatic translation
+#~ msgid "Add BestWebSoft plugins' shortcodes using this button."
+#~ msgstr ""
+#~ "このボタンを使用して、BestWebSoft プラグインのショートコードを追加します。"
+
+# automatic translation
+#~ msgid "Are you sure you want to restore default settings?"
+#~ msgstr "デフォルト設定を復元してもよろしいですか?"
+
+# automatic translation
+#~ msgid "Yes, restore all settings"
+#~ msgstr "はい、すべての設定を復元します"
+
+# automatic translation
+#~ msgid "No, go back to the settings page"
+#~ msgstr "いいえ、設定ページに戻ります"
+
+# automatic translation
+#~ msgid "Plugin"
+#~ msgstr "プラグイン"
+
+# automatic translation
+#~ msgid "Shortcode settings"
+#~ msgstr "ショートコードの設定"
+
+# automatic translation
+#~ msgid "The shortcode will be inserted"
+#~ msgstr "ショートコードが挿入されます"
+
+# automatic translation
+#~ msgid "For more information:"
+#~ msgstr "詳細については："
+
+# automatic translation
+#~ msgid "Documentation"
+#~ msgstr "ドキュメンテーション"
+
+# automatic translation
+#~ msgid "Video Instructions"
+#~ msgstr "ビデオの説明"
+
+# automatic translation
+#~ msgid "Submit a Request"
+#~ msgstr "リクエストを送信"
+
+# automatic translation
+#~ msgid "Wrong license key"
+#~ msgstr "間違ったライセンス キー"
+
+# automatic translation
+#~ msgid ""
+#~ "Something went wrong. Please try again later. If the error appears again, "
+#~ "please contact us"
+#~ msgstr ""
+#~ "エラーが発生しました。後でもう一度やり直してください。再度エラーが表示され"
+#~ "る場合は、弊社までご連絡ください"
+
+# automatic translation
+#~ msgid "We are sorry for inconvenience."
+#~ msgstr "ご不便をおかけして申し訳ございません。"
+
+# automatic translation
+#~ msgid "Wrong license key."
+#~ msgstr "ライセンスキーが間違っています。"
+
+# automatic translation
+#~ msgid ""
+#~ "This license key is bound to another site. Change it via personal Client "
+#~ "Area."
+#~ msgstr ""
+#~ "このライセンス キーは別のサイトにバインドされています。パーソナル クライア"
+#~ "ント エリアから変更します。"
+
+# automatic translation
+#~ msgid "Log in"
+#~ msgstr "ログイン"
+
+# automatic translation
+#~ msgid ""
+#~ "Unfortunately, you have exceeded the number of available tries per day."
+#~ msgstr "残念ながら、1 日に利用できる試行回数を超えました。"
+
+# automatic translation
+#, php-format
+#~ msgid ""
+#~ "Unfortunately, Your license has expired. To continue getting top-priority "
+#~ "support and plugin updates, you should extend it in your %s"
+#~ msgstr ""
+#~ "残念ながら、ライセンスの有効期限が切れています。最優先のサポートとプラグイ"
+#~ "ンの更新を引き続き取得するには、%s で拡張する必要があります"
+
+# automatic translation
+#~ msgid ""
+#~ "Unfortunately, the Pro licence was already installed to this domain. The "
+#~ "Pro Trial license can be installed only once."
+#~ msgstr ""
+#~ "残念ながら、Pro ライセンスは既にこのドメインにインストールされています。 "
+#~ "Pro Trial ライセンスは 1 回のみインストールできます。"
+
+# automatic translation
+#~ msgid "The license key is valid."
+#~ msgstr "ライセンスキーは有効です。"
+
+# automatic translation
+#~ msgid "Your license will expire on"
+#~ msgstr "ライセンスの有効期限は次のとおりです"
+
+# automatic translation
+#~ msgid "Congratulations! Pro Membership license is activated successfully."
+#~ msgstr ""
+#~ "おめでとう！プロ メンバーシップ ライセンスが正常にアクティブ化されました。"
+
+# automatic translation
+#~ msgid ""
+#~ "Something went wrong. Try again later or upload the plugin manually. We "
+#~ "are sorry for inconvenience."
+#~ msgstr ""
+#~ "エラーが発生しました。後で再試行するか、プラグインを手動でアップロードして"
+#~ "ください。ご不便をおかけして申し訳ございません。"
+
+# automatic translation
+#~ msgid "Please enter your license key."
+#~ msgstr "ライセンスキーを入力してください。"
+
+# automatic translation
+#~ msgid "Not set"
+#~ msgstr "設定されていません"
+
+# automatic translation
+#~ msgid "On"
+#~ msgstr "の上"
+
+# automatic translation
+#~ msgid "Off"
+#~ msgstr "オフ"
+
+# automatic translation
+#~ msgid "N/A"
+#~ msgstr "なし"
+
+# automatic translation
+#~ msgid "Mb"
+#~ msgstr "メガバイト"
+
+# automatic translation
+#~ msgid "Yes"
+#~ msgstr "はい"
+
+# automatic translation
+#~ msgid "No"
+#~ msgstr "いいえ"
+
+# automatic translation
+#~ msgid "WordPress Environment"
+#~ msgstr "WordPress 環境"
+
+# automatic translation
+#~ msgid "Home URL"
+#~ msgstr "ホーム URL"
+
+# automatic translation
+#~ msgid "Website URL"
+#~ msgstr "ウェブサイトのURL"
+
+# automatic translation
+#~ msgid "WP Version"
+#~ msgstr "WP版"
+
+# automatic translation
+#~ msgid "WP Multisite"
+#~ msgstr "WP マルチサイト"
+
+# automatic translation
+#~ msgid "WP Memory Limit"
+#~ msgstr "WP メモリ制限"
+
+# automatic translation
+#~ msgid "Active Theme"
+#~ msgstr "アクティブなテーマ"
+
+# automatic translation
+#, php-format
+#~ msgid "by %s"
+#~ msgstr "%sによる"
+
+# automatic translation
+#~ msgid "Server Environment"
+#~ msgstr "サーバー環境"
+
+# automatic translation
+#~ msgid "Operating System"
+#~ msgstr "オペレーティング·システム"
+
+# automatic translation
+#~ msgid "Server"
+#~ msgstr "サーバ"
+
+# automatic translation
+#~ msgid "PHP Version"
+#~ msgstr "PHP バージョン"
+
+# automatic translation
+#~ msgid "PHP Allow URL fopen"
+#~ msgstr "PHP 許可 URL fopen"
+
+# automatic translation
+#~ msgid "PHP Memory Limit"
+#~ msgstr "PHP メモリ制限"
+
+# automatic translation
+#~ msgid "Memory Usage"
+#~ msgstr "メモリ使用量"
+
+# automatic translation
+#~ msgid "PHP Max Upload Size"
+#~ msgstr "PHP 最大アップロード サイズ"
+
+# automatic translation
+#~ msgid "PHP Max Post Size"
+#~ msgstr "PHP 最大投稿サイズ"
+
+# automatic translation
+#~ msgid "PHP Max Script Execute Time"
+#~ msgstr "PHP スクリプトの最大実行時間"
+
+# automatic translation
+#~ msgid "PHP Exif support"
+#~ msgstr "PHP Exif のサポート"
+
+# automatic translation
+#~ msgid "PHP IPTC support"
+#~ msgstr "PHP IPTC サポート"
+
+# automatic translation
+#~ msgid "PHP XML support"
+#~ msgstr "PHP XML サポート"
+
+# automatic translation
+#~ msgid "Database"
+#~ msgstr "データベース"
+
+# automatic translation
+#~ msgid "WP DB version"
+#~ msgstr "WP DB バージョン"
+
+# automatic translation
+#~ msgid "MySQL version"
+#~ msgstr "MySQL のバージョン"
+
+# automatic translation
+#~ msgid "SQL Mode"
+#~ msgstr "SQL モード"
+
+# automatic translation
+#~ msgid "Active Plugins"
+#~ msgstr "アクティブなプラグイン"
+
+# automatic translation
+#~ msgid "Inactive Plugins"
+#~ msgstr "非アクティブなプラグイン"
+
+# automatic translation
+#~ msgid "Please enter a valid email address."
+#~ msgstr "有効なメールアドレスを入力してください。"
+
+# automatic translation
+#, php-format
+#~ msgid "Email with system info is sent to %s."
+#~ msgstr "システム情報を含む電子メールが %s に送信されます。"
+
+# automatic translation
+#~ msgid "Thank you for contacting us."
+#~ msgstr "ご連絡いただきありがとうございます。"
+
+# automatic translation
+#~ msgid "Sorry, email message could not be delivered."
+#~ msgstr "申し訳ありませんが、メール メッセージを配信できませんでした。"
+
+# automatic translation
+#~ msgid "Themes"
+#~ msgstr "テーマ"
+
+# automatic translation
+#~ msgid "System status"
+#~ msgstr "システムステータス"
+
+# automatic translation
+#~ msgid "Manage purchased licenses & subscriptions"
+#~ msgstr "購入したライセンスとサブスクリプションを管理する"
+
+# automatic translation
+#, php-format
+#~ msgid "Get Access to %s+ Premium Plugins"
+#~ msgstr "%s+ プレミアム プラグインへのアクセスを取得"
+
+# automatic translation
+#~ msgid "Subscribe to Pro Membership"
+#~ msgstr "プロ会員に申し込む"
+
+# automatic translation
+#~ msgid "Check license key"
+#~ msgstr "ライセンスキーの確認"
+
+# automatic translation
+#~ msgid "Enter your license key"
+#~ msgstr "ライセンスキーを入力してください"
+
+# automatic translation
+#~ msgid "Activate"
+#~ msgstr "活性化"
+
+# automatic translation
+#~ msgid "Upload Plugin"
+#~ msgstr "アップロードプラグイン"
+
+# automatic translation
+#, php-format
+#~ msgid ""
+#~ "The plugin generated %d characters of <strong>unexpected output</strong> "
+#~ "during activation. If you notice &#8220;headers already sent&#8221; "
+#~ "messages, problems with syndication feeds or other issues, try "
+#~ "deactivating or removing this plugin."
+#~ msgstr ""
+#~ "プラグインは、アクティブ化中に %d 文字の<strong>予期しない出力</strong>を"
+#~ "生成しました。 「headers already sent」メッセージ、シンジケーション フィー"
+#~ "ドの問題、またはその他の問題に気付いた場合は、このプラグインを無効にする"
+#~ "か、削除してみてください。"
+
+# automatic translation
+#~ msgid ""
+#~ "Plugin could not be activated because it triggered a <strong>fatal error</"
+#~ "strong>."
+#~ msgstr ""
+#~ "<strong>致命的なエラーが</strong>発生したため、プラグインをアクティブ化で"
+#~ "きませんでした。"
+
+# automatic translation
+#~ msgid "Plugin <strong>activated</strong>."
+#~ msgstr "プラグインが<strong>有効化されました</strong>。"
+
+# automatic translation
+#~ msgid "Download Pro Plugin"
+#~ msgstr "プロプラグインをダウンロード"
+
+# automatic translation
+#~ msgid "Your Pro plugin is ready"
+#~ msgstr "Pro プラグインの準備ができました"
+
+# automatic translation
+#~ msgid "Your plugin has been zipped, and now is ready to download."
+#~ msgstr "プラグインが圧縮され、ダウンロードする準備が整いました。"
+
+# automatic translation
+#~ msgid "Download Now"
+#~ msgstr "ダウンロード中"
+
+# automatic translation
+#~ msgid "Need help installing the plugin?"
+#~ msgstr "プラグインのインストールにヘルプが必要ですか?"
+
+# automatic translation
+#~ msgid ""
+#~ "How to install WordPress plugin from your admin Dashboard (ZIP archive)"
+#~ msgstr ""
+#~ "管理ダッシュボードから WordPress プラグインをインストールする方法 (ZIP "
+#~ "アーカイブ)"
+
+# automatic translation
+#~ msgid "Get Started"
+#~ msgstr "始めましょう"
+
+# automatic translation
+#~ msgid "Knowledge Base"
+#~ msgstr "知識ベース"
+
+# automatic translation
+#~ msgid "Licenses & Domains"
+#~ msgstr "ライセンスとドメイン"
+
+# automatic translation
+#~ msgid "Client Area"
+#~ msgstr "クライアントエリア"
+
+# automatic translation
+#~ msgid "Return to BestWebSoft Panel"
+#~ msgstr "BestWebSoft パネルに戻る"
+
+# automatic translation
+#~ msgid "Installed"
+#~ msgstr "インストール済み"
+
+# automatic translation
+#~ msgid "Not Installed"
+#~ msgstr "インストールされていない"
+
+# automatic translation
+#~ msgid "Filter results"
+#~ msgstr "結果のフィルタリング"
+
+# automatic translation
+#~ msgid "Not installed"
+#~ msgstr "インストールされていない"
+
+# automatic translation
+#~ msgid "Renew to get updates"
+#~ msgstr "更新してアップデートを入手する"
+
+# automatic translation
+#, php-format
+#~ msgid "Update to v %s"
+#~ msgstr "v %s に更新"
+
+# automatic translation
+#~ msgid "Get Pro"
+#~ msgstr "プロになる"
+
+# automatic translation
+#~ msgid "Activate this plugin"
+#~ msgstr "このプラグインを有効にする"
+
+# automatic translation
+#~ msgid "Install this plugin"
+#~ msgstr "このプラグインをインストール"
+
+# automatic translation
+#~ msgid "Install Now"
+#~ msgstr "今すぐインストール"
+
+# automatic translation
+#~ msgid "Nothing found. Try another criteria."
+#~ msgstr "何も見つかりません。別の基準を試してください。"
+
+# automatic translation
+#, php-format
+#~ msgid "By %s"
+#~ msgstr "%s で"
+
+# automatic translation
+#~ msgid "Already Installed"
+#~ msgstr "すでにインストールされています"
+
+# automatic translation
+#~ msgid "Browse More WordPress Themes"
+#~ msgstr "他の WordPress テーマを参照する"
+
+# automatic translation
+#~ msgid "Send to support"
+#~ msgstr "サポートに送信"
+
+# automatic translation
+#~ msgid "Send to custom email &#187;"
+#~ msgstr "カスタム メールに送信 &#187;"
+
+# automatic translation
+#~ msgid "Information"
+#~ msgstr "情報"
+
+# automatic translation
+#~ msgid "Inactive"
+#~ msgstr "非活性"
+
+# automatic translation
+#~ msgid "Expired"
+#~ msgstr "期限切れ"
+
+# automatic translation
+#, php-format
+#~ msgid "%s day(-s) left"
+#~ msgstr "残り %s 日 (-s)"
+
+# automatic translation
+#, php-format
+#~ msgid "Expired on %s"
+#~ msgstr "%s に期限切れ"
+
+# automatic translation
+#~ msgid "Renew Now"
+#~ msgstr "今すぐ更新"
+
+# automatic translation
+#~ msgid "Active"
+#~ msgstr "アクティブ"
+
+# automatic translation
+#~ msgid "License"
+#~ msgstr "ライセンス"
+
+# automatic translation
+#~ msgid "Version"
+#~ msgstr "バージョン"
+
+# automatic translation
+#~ msgid "All plugin settings were restored."
+#~ msgstr "すべてのプラグイン設定が復元されました。"
+
+# automatic translation
+#~ msgid ""
+#~ "The ability to add custom code is available in the Pro version. If the "
+#~ "Pro version is not available please contact us via Help Center"
+#~ msgstr ""
+#~ "カスタム コードを追加する機能は、Pro バージョンで利用できます。 Proバー"
+#~ "ジョンが利用できない場合は、ヘルプセンターからお問い合わせください"
+
+# automatic translation
+#~ msgid ""
+#~ "You do not have sufficient permissions to edit plugins for this site."
+#~ msgstr "このサイトのプラグインを編集するための十分な権限がありません。"
+
+# automatic translation
+#~ msgid "These styles will be added to the header on all pages of your site."
+#~ msgstr ""
+#~ "これらのスタイルは、サイトのすべてのページのヘッダーに追加されます。"
+
+# automatic translation
+#, php-format
+#~ msgid ""
+#~ "This PHP code will be hooked to the %s Action and will be printed on "
+#~ "front end only."
+#~ msgstr ""
+#~ "この PHP コードは %s アクションにフックされ、フロント エンドでのみ出力され"
+#~ "ます。"
+
+# automatic translation
+#~ msgid "These code will be added to the header on all pages of your site."
+#~ msgstr "これらのコードは、サイトのすべてのページのヘッダーに追加されます。"
+
+# automatic translation
+#~ msgid "Browsing"
+#~ msgstr "ブラウジング"
+
+# automatic translation
+#, php-format
+#~ msgid "Activate custom %s code."
+#~ msgstr "カスタム %s コードを有効にします。"
+
+# automatic translation
+#, php-format
+#~ msgid "Learn more about %s"
+#~ msgstr "%s の詳細"
+
+# automatic translation
+#~ msgid "Miscellaneous Settings"
+#~ msgstr "その他の設定"
+
+# automatic translation
+#, php-format
+#~ msgid ""
+#~ "It is prohibited to change %1$s settings on this site in the %2$s network "
+#~ "settings."
+#~ msgstr ""
+#~ "%2$s ネットワーク設定で、このサイトの %1$s 設定を変更することは禁止されて"
+#~ "います。"
+
+# automatic translation
+#, php-format
+#~ msgid ""
+#~ "It is prohibited to view %1$s settings on this site in the %2$s network "
+#~ "settings."
+#~ msgstr ""
+#~ "%2$s ネットワーク設定で、このサイトの %1$s 設定を表示することは禁止されて"
+#~ "います。"
+
+# automatic translation
+#~ msgid "Pro Options"
+#~ msgstr "プロのオプション"
+
+# automatic translation
+#~ msgid "Enable to display plugin Pro options."
+#~ msgstr "プラグインの Pro オプションを表示できるようにします。"
+
+# automatic translation
+#~ msgid "Track Usage"
+#~ msgstr "使用状況の追跡"
+
+# automatic translation
+#~ msgid ""
+#~ "Enable to allow tracking plugin usage anonymously in order to make it "
+#~ "better."
+#~ msgstr ""
+#~ "プラグインの使用状況を匿名で追跡できるように有効にして、改善します。"
+
+# automatic translation
+#~ msgid "Default Settings"
+#~ msgstr "デフォルトの設定"
+
+# automatic translation
+#~ msgid "This will restore plugin settings to defaults."
+#~ msgstr "これにより、プラグイン設定がデフォルトに復元されます。"
+
+# automatic translation
+#~ msgid "Import / Export"
+#~ msgstr "インポート・エクスポート"
+
+# automatic translation
+#, php-format
+#~ msgid ""
+#~ "Enter your license key to activate %s and get premium plugin features."
+#~ msgstr ""
+#~ "ライセンス キーを入力して %s をアクティベートし、プレミアム プラグイン機能"
+#~ "を取得してください。"
+
+# automatic translation
+#~ msgid ""
+#~ "Unfortunately, you have exceeded the number of available tries per day. "
+#~ "Please, upload the plugin manually."
+#~ msgstr ""
+#~ "残念ながら、1 日に利用できる試行回数を超えました。プラグインを手動でアップ"
+#~ "ロードしてください。"
+
+# automatic translation
+#, php-format
+#~ msgid "Start Your Free %s-Day Trial Now"
+#~ msgstr "%s 日間の無料トライアルを今すぐ開始"
+
+# automatic translation
+#~ msgid ""
+#~ "If necessary, you can check if the license key is correct or reenter it "
+#~ "in the field below."
+#~ msgstr ""
+#~ "必要に応じて、ライセンス キーが正しいかどうかを確認するか、下のフィールド"
+#~ "に再入力できます。"
+
+# automatic translation
+#~ msgid "Manage License Settings"
+#~ msgstr "ライセンス設定の管理"
+
+# automatic translation
+#~ msgid "Login to Client Area"
+#~ msgstr "クライアントエリアにログイン"
+
+# automatic translation
+#~ msgid ""
+#~ "Manage active licenses, download BWS products, and view your payment "
+#~ "history using BestWebSoft Client Area."
+#~ msgstr ""
+#~ "BestWebSoft クライアント エリアを使用して、有効なライセンスを管理し、BWS "
+#~ "製品をダウンロードし、支払い履歴を表示します。"
+
+# automatic translation
+#~ msgid "Security check"
+#~ msgstr "セキュリティーチェック"
+
+# automatic translation
+#~ msgid "This license key is bound to another site."
+#~ msgstr "このライセンス キーは別のサイトにバインドされています。"
+
+# automatic translation
+#~ msgid ""
+#~ "This license key is valid, but Your license has expired. If you want to "
+#~ "update our plugin in future, you should extend the license."
+#~ msgstr ""
+#~ "このライセンス キーは有効ですが、ライセンスの有効期限が切れています。今後"
+#~ "プラグインを更新する場合は、ライセンスを延長する必要があります。"
+
+# automatic translation
+#~ msgid "Unfortunately, you have exceeded the number of available tries."
+#~ msgstr "残念ながら、利用可能な試行回数を超えました。"
+
+# automatic translation
+#~ msgid ""
+#~ "Unfortunately, the Pro Trial licence was already installed to this "
+#~ "domain. The Pro Trial license can be installed only once."
+#~ msgstr ""
+#~ "残念ながら、Pro Trial ライセンスはこのドメインに既にインストールされていま"
+#~ "す。 Pro Trial ライセンスは 1 回のみインストールできます。"
+
+# automatic translation
+#~ msgid "The Pro Trial license key is valid."
+#~ msgstr "プロ トライアル ライセンス キーは有効です。"
+
+# automatic translation
+#, php-format
+#~ msgid ""
+#~ "In order to continue using the plugin it is necessary to buy a %s license."
+#~ msgstr ""
+#~ "プラグインを引き続き使用するには、%s ライセンスを購入する必要があります。"
+
+# automatic translation
+#, php-format
+#~ msgid ""
+#~ "Unfortunately, Your license has expired. To continue getting top-priority "
+#~ "support and plugin updates, you should extend it in your %s."
+#~ msgstr ""
+#~ "残念ながら、ライセンスの有効期限が切れています。最優先のサポートとプラグイ"
+#~ "ンの更新を引き続き取得するには、%s で拡張する必要があります。"
+
+# automatic translation
+#~ msgid "Please, enter Your license key"
+#~ msgstr "ライセンスキーを入力してください"
+
+# automatic translation
+#~ msgid "Need Help?"
+#~ msgstr "助けが必要？"
+
+# automatic translation
+#~ msgid "Read the Instruction"
+#~ msgstr "説明書を読む"
+
+# automatic translation
+#~ msgid "Watch the Video"
+#~ msgstr "ビデオを見る"
+
+# automatic translation
+#~ msgid "Start Your Free Trial"
+#~ msgstr "無料トライアルを開始する"
+
+# automatic translation
+#~ msgid "Request a Feature"
+#~ msgstr "機能をリクエストする"
+
+# automatic translation
+#, php-format
+#~ msgid "How can we improve %s?"
+#~ msgstr "%s を改善するにはどうすればよいですか?"
+
+# automatic translation
+#~ msgid "We look forward to hear your ideas."
+#~ msgstr "皆様のご意見をお待ちしております。"
+
+# automatic translation
+#~ msgid "Describe your idea"
+#~ msgstr "あなたのアイデアを説明してください"
+
+# automatic translation
+#~ msgid "Send website data and allow to contact me back"
+#~ msgstr "ウェブサイトのデータを送信し、私に連絡することを許可します"
+
+# automatic translation
+#~ msgid "Submit"
+#~ msgstr "送信"
+
+# automatic translation
+#~ msgid "Processing"
+#~ msgstr "処理"
+
+# automatic translation
+#~ msgid "Thank you!"
+#~ msgstr "ありがとう！"
+
+# automatic translation
+#~ msgid "Need help? We are ready to answer your questions."
+#~ msgstr "助けが必要？ご質問にお答えする準備ができています。"
+
+# automatic translation
+#~ msgid "Contact Support"
+#~ msgstr "サポート問い合わせ先"
+
+# automatic translation
+#~ msgid "The plugin is not working"
+#~ msgstr "プラグインが機能していません"
+
+# automatic translation
+#~ msgid "Kindly share what didn't work so we can fix it in future updates..."
+#~ msgstr ""
+#~ "今後のアップデートで修正できるように、機能しなかったものを共有してくださ"
+#~ "い..."
+
+# automatic translation
+#~ msgid "The plugin didn't work as expected"
+#~ msgstr "プラグインが期待どおりに機能しなかった"
+
+# automatic translation
+#~ msgid "What did you expect?"
+#~ msgstr "何を期待していましたか？"
+
+# automatic translation
+#~ msgid "The plugin suddenly stopped working"
+#~ msgstr "プラグインが突然動かなくなった"
+
+# automatic translation
+#~ msgid "The plugin broke my site"
+#~ msgstr "プラグインが私のサイトを壊した"
+
+# automatic translation
+#~ msgid "I couldn't understand how to get it work"
+#~ msgstr "それを機能させる方法を理解できませんでした"
+
+# automatic translation
+#~ msgid "I found a better plugin"
+#~ msgstr "もっと良いプラグインを見つけた"
+
+# automatic translation
+#~ msgid "What's the plugin name?"
+#~ msgstr "プラグイン名は？"
+
+# automatic translation
+#~ msgid ""
+#~ "The plugin is great, but I need specific feature that you don't support"
+#~ msgstr ""
+#~ "プラグインは素晴らしいですが、サポートされていない特定の機能が必要です"
+
+# automatic translation
+#~ msgid "What feature?"
+#~ msgstr "何の機能？"
+
+# automatic translation
+#~ msgid "I no longer need the plugin"
+#~ msgstr "プラグインが不要になりました"
+
+# automatic translation
+#~ msgid "It's a temporary deactivation, I'm just debugging an issue"
+#~ msgstr "これは一時的な非アクティブ化です。問題をデバッグしているだけです"
+
+# automatic translation
+#~ msgid "Other"
+#~ msgstr "他の"
+
+# automatic translation
+#~ msgid "Quick Feedback"
+#~ msgstr "クイックフィードバック"
+
+# automatic translation
+#~ msgid "If you have a moment, please let us know why you are deactivating"
+#~ msgstr "お時間がありましたら、無効にする理由をお知らせください。"
+
+# automatic translation
+#~ msgid "Submit and Deactivate"
+#~ msgstr "送信して非アクティブ化"
+
+# automatic translation
+#~ msgid "Skip and Deactivate"
+#~ msgstr "スキップして非アクティブ化"
+
+# automatic translation
+#~ msgid "Please tell us the reason so we can improve it."
+#~ msgstr "改善できるように理由を教えてください。"
+
+# automatic translation
+#~ msgid "System Status"
+#~ msgstr "システムステータス"
+
+# automatic translation
+#~ msgid ""
+#~ "If necessary, you can check if the license key is correct or reenter it "
+#~ "in the field below. You can find your license key on your personal page - "
+#~ "Client Area - on our website"
+#~ msgstr ""
+#~ "必要に応じて、ライセンス キーが正しいかどうかを確認するか、下のフィールド"
+#~ "に再入力できます。ライセンス キーは、当社の Web サイトの個人ページ - クラ"
+#~ "イアント エリア - にあります。"
+
+# automatic translation
+#~ msgid ""
+#~ "(your username is the email address specified during the purchase). If "
+#~ "necessary, please submit \"Lost your password?\" request."
+#~ msgstr ""
+#~ "(ユーザー名は、購入時に指定したメール アドレスです)。必要に応じて、「パス"
+#~ "ワードをお忘れですか?」と送信してください。リクエスト。"
+
+# automatic translation
+#~ msgid "After that, you can activate it by entering your license key."
+#~ msgstr "その後、ライセンスキーを入力してアクティベートできます。"
+
+# automatic translation
+#~ msgid "License key can be found in the"
+#~ msgstr "ライセンス キーは"
+
+# automatic translation
+#~ msgid "(your username is the email address specified during the purchase)."
+#~ msgstr "(ユーザー名は、購入時に指定したメール アドレスです)。"
+
+# automatic translation
+#~ msgid ""
+#~ "Congratulations! The Pro license of the plugin is activated successfully."
+#~ msgstr ""
+#~ "おめでとう！プラグインの Pro ライセンスが正常にアクティブ化されました。"
+
+# automatic translation
+#~ msgid "Please, go to"
+#~ msgstr "に行ってください"
+
+# automatic translation
+#~ msgid "the setting page"
+#~ msgstr "設定ページ"
+
+# automatic translation
+#~ msgid "Restore all plugin settings to defaults"
+#~ msgstr "すべてのプラグイン設定をデフォルトに戻す"
+
+# automatic translation
+#~ msgid "Restore settings"
+#~ msgstr "設定の復元"
+
+# automatic translation
+#~ msgid ""
+#~ "Congratulations! Pro version of the plugin is  installed and activated "
+#~ "successfully."
+#~ msgstr ""
+#~ "おめでとう！プラグインの Pro バージョンがインストールされ、正常にアクティ"
+#~ "ブ化されました。"
+
+# automatic translation
+#~ msgid "Show Pro features"
+#~ msgstr "プロの機能を表示"
+
+# automatic translation
+#~ msgid "Enter your license key to install and activate"
+#~ msgstr "ライセンス キーを入力して、インストールとアクティブ化を行います"
+
+# automatic translation
+#~ msgid "version of the plugin."
+#~ msgstr "プラグインのバージョン。"
+
+# automatic translation
+#~ msgid "Admin Tools"
+#~ msgstr "管理ツール"
+
+# automatic translation
+#~ msgid "Content"
+#~ msgstr "コンテンツ"
+
+# automatic translation
+#~ msgid "eCommerce"
+#~ msgstr "eコマース"
+
+# automatic translation
+#~ msgid "Marketing"
+#~ msgstr "マーケティング"
+
+# automatic translation
+#~ msgid "Navigation"
+#~ msgstr "ナビゲーション"
+
+# automatic translation
+#~ msgid "Recommended"
+#~ msgstr "おすすめされた"
+
+# automatic translation
+#~ msgid "Security"
+#~ msgstr "安全"
+
+# automatic translation
+#~ msgid "SEO"
+#~ msgstr "これ"
+
+# automatic translation
+#~ msgid "SMM"
+#~ msgstr "SMM"
+
+# automatic translation
+#~ msgid "Give a birth for your bike rental and booking WordPress website."
+#~ msgstr "自転車のレンタルと予約の WordPress ウェブサイトを誕生させましょう。"
+
+# automatic translation
+#~ msgid "Best secure captcha plugin to protect your WordPress forms."
+#~ msgstr ""
+#~ "WordPress フォームを保護するための最高の安全なキャプチャ プラグイン。"
+
+# automatic translation
+#~ msgid "Create your own rental website for car renting and booking."
+#~ msgstr "レンタカーと予約のための独自のレンタル Web サイトを作成します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add columns with custom content to WordPress website pages, posts, "
+#~ "widgets, etc."
+#~ msgstr ""
+#~ "カスタム コンテンツを含む列を WordPress Web サイト ページ、投稿、ウィ"
+#~ "ジェットなどに追加します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Allow customers to reach you using secure contact form plugin any website "
+#~ "must have."
+#~ msgstr ""
+#~ "Web サイトに必要な安全なコンタクト フォーム プラグインを使用して、顧客があ"
+#~ "なたに連絡できるようにします。"
+
+# automatic translation
+#~ msgid "Add unlimited number of contact forms to WordPress website."
+#~ msgstr ""
+#~ "WordPress Web サイトに無制限の数のお問い合わせフォームを追加します。"
+
+# automatic translation
+#~ msgid "Save and manage Contact Form messages. Never lose important data."
+#~ msgstr ""
+#~ "お問い合わせフォームのメッセージを保存して管理します。重要なデータを失うこ"
+#~ "とはありません。"
+
+# automatic translation
+#~ msgid "Add unlimited custom pages to WordPress admin dashboard."
+#~ msgstr "WordPress 管理ダッシュボードに無制限のカスタム ページを追加します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add custom post types and taxonomies to WordPress website search results."
+#~ msgstr ""
+#~ "WordPress ウェブサイトの検索結果にカスタム投稿タイプとタクソノミーを追加し"
+#~ "ます。"
+
+# automatic translation
+#~ msgid "Add PayPal and 2CO donate buttons to receive charity payments."
+#~ msgstr ""
+#~ "PayPal と 2CO の寄付ボタンを追加して、チャリティーの支払いを受け取ります。"
+
+# automatic translation
+#~ msgid ""
+#~ "Get latest error log messages to diagnose website problems. Define and "
+#~ "fix issues faster."
+#~ msgstr ""
+#~ "最新のエラー ログ メッセージを取得して、Web サイトの問題を診断します。問題"
+#~ "をより迅速に定義して修正します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add Facebook Follow, Like, and Share buttons to WordPress posts, pages, "
+#~ "and widgets."
+#~ msgstr ""
+#~ "Facebook のフォロー、いいね、共有ボタンを WordPress の投稿、ページ、ウィ"
+#~ "ジェットに追加します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add beautiful galleries, albums & images to your WordPress website in a "
+#~ "few clicks."
+#~ msgstr ""
+#~ "数回クリックするだけで、美しいギャラリー、アルバム、画像を WordPress ウェ"
+#~ "ブサイトに追加できます。"
+
+# automatic translation
+#~ msgid ""
+#~ "Stronger security solution which protects your WordPress website from "
+#~ "hacks and unauthorized login attempts."
+#~ msgstr ""
+#~ "WordPress Web サイトをハッキングや不正なログイン試行から保護する、より強力"
+#~ "なセキュリティ ソリューション。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add Adsense ads to WordPress website pages, posts, custom posts, search "
+#~ "results, categories, tags, and widgets."
+#~ msgstr ""
+#~ "Adsense 広告を WordPress Web サイト ページ、投稿、カスタム投稿、検索結果、"
+#~ "カテゴリ、タグ、およびウィジェットに追加します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add Google Analytics code to WordPress website and track basic stats."
+#~ msgstr ""
+#~ "Google Analytics コードを WordPress Web サイトに追加して、基本的な統計を追"
+#~ "跡します。"
+
+# automatic translation
+#~ msgid "Protect WordPress website forms from spam entries with reCaptcha."
+#~ msgstr ""
+#~ "reCaptcha を使用して、WordPress Web サイトのフォームをスパム エントリから"
+#~ "保護します。"
+
+# automatic translation
+#~ msgid "Add customized Google maps to WordPress posts, pages and widgets."
+#~ msgstr ""
+#~ "カスタマイズした Google マップを WordPress の投稿、ページ、ウィジェットに"
+#~ "追加します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Generate and add XML sitemap to WordPress website. Help search engines "
+#~ "index your blog."
+#~ msgstr ""
+#~ "XML サイトマップを生成して WordPress Web サイトに追加します。検索エンジン"
+#~ "があなたのブログをインデックスに登録できるようにします。"
+
+# automatic translation
+#~ msgid ""
+#~ "Replace external WordPress website links with Google shortlinks and track "
+#~ "click stats."
+#~ msgstr ""
+#~ "外部 WordPress ウェブサイト リンクを Google 短縮リンクに置き換え、クリック"
+#~ "統計を追跡します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Protect WordPress website – allow and deny access for certain IP "
+#~ "addresses, hostnames, etc."
+#~ msgstr ""
+#~ "WordPress ウェブサイトを保護 – 特定の IP アドレス、ホスト名などへのアクセ"
+#~ "スを許可および拒否します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Create your personal job board and listing WordPress website. Search "
+#~ "jobs, submit CV/resumes, choose candidates."
+#~ msgstr ""
+#~ "あなたの個人的な求人掲示板とリスティング WordPress Web サイトを作成しま"
+#~ "す。求人の検索、履歴書の提出、候補者の選択。"
+
+# automatic translation
+#~ msgid ""
+#~ "Protect WordPress website against brute force attacks. Limit rate of "
+#~ "login attempts."
+#~ msgstr ""
+#~ "ブルート フォース攻撃から WordPress Web サイトを保護します。ログイン試行回"
+#~ "数を制限します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add LinkedIn Share and Follow buttons to WordPress posts, pages and "
+#~ "widgets. 5 plugins included – profile, insider, etc."
+#~ msgstr ""
+#~ "LinkedIn の共有ボタンとフォロー ボタンを WordPress の投稿、ページ、ウィ"
+#~ "ジェットに追加します。 5 つのプラグインが含まれています – プロファイル、イ"
+#~ "ンサイダーなど。"
+
+# automatic translation
+#~ msgid ""
+#~ "Translate WordPress website content to other languages manually. Create "
+#~ "multilingual pages, posts, widgets, menus, etc."
+#~ msgstr ""
+#~ "WordPress Web サイトのコンテンツを他の言語に手動で翻訳します。多言語ペー"
+#~ "ジ、投稿、ウィジェット、メニューなどを作成します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add customizable pagination to WordPress website. Split long content to "
+#~ "multiple pages for better navigation."
+#~ msgstr ""
+#~ "WordPress Web サイトにカスタマイズ可能なページネーションを追加します。ナビ"
+#~ "ゲーションを改善するために、長いコンテンツを複数のページに分割します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add Pinterest Follow, Pin It buttons and profile widgets (Pin, Board, "
+#~ "Profile) to WordPress posts, pages and widgets."
+#~ msgstr ""
+#~ "Pinterest のフォロー、ピン留めボタン、プロフィール ウィジェット (ピン、"
+#~ "ボード、プロフィール) を WordPress の投稿、ページ、ウィジェットに追加しま"
+#~ "す。"
+
+# automatic translation
+#~ msgid ""
+#~ "Create your personal portfolio WordPress website. Manage and showcase "
+#~ "past projects to get more clients."
+#~ msgstr ""
+#~ "個人のポートフォリオ WordPress Web サイトを作成します。過去のプロジェクト"
+#~ "を管理して紹介し、より多くのクライアントを獲得します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Export WordPress posts to CSV file format easily. Configure data order."
+#~ msgstr ""
+#~ "WordPress の投稿を CSV ファイル形式に簡単にエクスポートします。データの順"
+#~ "序を構成します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add extra fields to default WordPress user profile. The easiest way to "
+#~ "create and manage additional custom values."
+#~ msgstr ""
+#~ "デフォルトの WordPress ユーザー プロファイルにフィールドを追加します。追加"
+#~ "のカスタム値を作成および管理する最も簡単な方法。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add and display HTML advertisement banner on WordPress website. Customize "
+#~ "bar styles and appearance."
+#~ msgstr ""
+#~ "WordPress ウェブサイトに HTML 広告バナーを追加して表示します。バーのスタイ"
+#~ "ルと外観をカスタマイズします。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add customizable quotes and tips blocks to WordPress posts, pages and "
+#~ "widgets."
+#~ msgstr ""
+#~ "WordPress の投稿、ページ、ウィジェットにカスタマイズ可能な引用文とヒント "
+#~ "ブロックを追加します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add rating plugin to your WordPress website to receive feedback from your "
+#~ "customers."
+#~ msgstr ""
+#~ "WordPress Web サイトに評価プラグインを追加して、顧客からのフィードバックを"
+#~ "受け取ります。"
+
+# automatic translation
+#~ msgid ""
+#~ "Create your personal real estate WordPress website. Sell, rent and buy "
+#~ "properties. Add, search and browse listings easily."
+#~ msgstr ""
+#~ "個人の不動産 WordPress Web サイトを作成します。不動産の販売、賃貸、購入。"
+#~ "リストを簡単に追加、検索、閲覧できます。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add related, featured, latest, and popular posts to your WordPress "
+#~ "website. Connect your blog readers with a relevant content."
+#~ msgstr ""
+#~ "関連記事、特集記事、最新記事、人気記事を WordPress Web サイトに追加しま"
+#~ "す。ブログの読者を関連するコンテンツにつなげます。"
+
+# automatic translation
+#~ msgid ""
+#~ "Send bulk email messages to WordPress users. Custom templates, advanced "
+#~ "settings and detailed reports."
+#~ msgstr ""
+#~ "WordPress ユーザーに一括メール メッセージを送信します。カスタム テンプレー"
+#~ "ト、詳細設定、詳細レポート。"
+
+# automatic translation
+#~ msgid ""
+#~ "The best responsive slider plugin for your WordPress website. Create "
+#~ "beautifully animated slides just in a few clicks."
+#~ msgstr ""
+#~ "WordPress ウェブサイトに最適なレスポンシブ スライダー プラグイン。数回ク"
+#~ "リックするだけで、美しくアニメーション化されたスライドを作成できます。"
+
+# automatic translation
+#~ msgid ""
+#~ "Configure SMTP server to receive email messages from WordPress to Gmail, "
+#~ "Yahoo, Hotmail and other services."
+#~ msgstr ""
+#~ "WordPress から Gmail、Yahoo、Hotmail およびその他のサービスへの電子メール "
+#~ "メッセージを受信するように SMTP サーバーを構成します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add social media buttons and widgets to WordPress posts, pages and "
+#~ "widgets. FB, Twitter, Pinterest, LinkedIn."
+#~ msgstr ""
+#~ "ソーシャル メディアのボタンとウィジェットを WordPress の投稿、ページ、ウィ"
+#~ "ジェットに追加します。 FB、ツイッター、ピンタレスト、リンクトイン。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add social media login, registration, and commenting to your WordPress "
+#~ "website."
+#~ msgstr ""
+#~ "ソーシャル メディアのログイン、登録、コメントを WordPress Web サイトに追加"
+#~ "します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add email newsletter sign up form to WordPress posts, pages and widgets. "
+#~ "Collect data and subscribe your users."
+#~ msgstr ""
+#~ "WordPress の投稿、ページ、ウィジェットにメール ニュースレターのサインアッ"
+#~ "プ フォームを追加します。データを収集し、ユーザーをサブスクライブします。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add testimonials and feedbacks from your customers to WordPress website "
+#~ "posts, pages, and widgets."
+#~ msgstr ""
+#~ "お客様の声やフィードバックを WordPress Web サイトの投稿、ページ、ウィ"
+#~ "ジェットに追加します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Best timesheet plugin for WordPress. Track employee time, streamline "
+#~ "attendance and generate reports."
+#~ msgstr ""
+#~ "WordPress に最適なタイムシート プラグイン。従業員の時間を追跡し、出席を合"
+#~ "理化し、レポートを生成します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Add Twitter Follow, Tweet, Hashtag, and Mention buttons to WordPress "
+#~ "posts and pages."
+#~ msgstr ""
+#~ "Twitter のフォロー、ツイート、ハッシュタグ、メンション ボタンを WordPress "
+#~ "の投稿やページに追加します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Automatically check and update WordPress website core with all installed "
+#~ "plugins and themes to the latest versions."
+#~ msgstr ""
+#~ "インストールされているすべてのプラグインとテーマを使用して、WordPress Web "
+#~ "サイトのコアを自動的にチェックし、最新バージョンに更新します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Powerful user role management plugin for WordPress website. Create, edit, "
+#~ "copy, and delete user roles."
+#~ msgstr ""
+#~ "WordPress Web サイト用の強力なユーザー ロール管理プラグイン。ユーザー ロー"
+#~ "ルを作成、編集、コピー、および削除します。"
+
+# automatic translation
+#~ msgid ""
+#~ "Display live count of online visitors who are currently browsing your "
+#~ "WordPress website."
+#~ msgstr ""
+#~ "現在 WordPress Web サイトを閲覧しているオンライン訪問者の実際の数を表示し"
+#~ "ます。"
+
+# automatic translation
+#~ msgid ""
+#~ "Backup and export Zendesk Help Center content automatically to your "
+#~ "WordPress website database."
+#~ msgstr ""
+#~ "Zendesk ヘルプ センターのコンテンツを WordPress ウェブサイト データベース"
+#~ "に自動的にバックアップおよびエクスポートします。"

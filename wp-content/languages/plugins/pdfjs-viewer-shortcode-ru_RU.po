@@ -1,0 +1,88 @@
+# Translation of Plugins - PDF.js Viewer - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - PDF.js Viewer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-04 07:26:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - PDF.js Viewer - Stable (latest release)\n"
+
+#: inc/options-page.php:104
+msgid "Show Save Button"
+msgstr "Показать кнопку сохранения"
+
+#: inc/options-page.php:182
+msgid "Alternative PDF Loading"
+msgstr "Альтернативная загрузка PDF-файлов"
+
+#: inc/custom-page.php:9
+msgid "Security Check Failed"
+msgstr "Не удалось выполнить проверку безопасности"
+
+#. Plugin Name of the plugin
+#: pdfjs-viewer.php
+msgid "PDFjs Viewer - Embed PDFs"
+msgstr "PDFjs Viewer - Embed PDFs"
+
+#: inc/media-button.php:17
+msgid "Add PDF"
+msgstr "Добавить PDF"
+
+#: inc/options-page.php:124 blocks/build/index.js:1
+#: blocks/src/block/block.js:257
+msgid "Embed Height"
+msgstr "Высота встраивания"
+
+#: inc/options-page.php:128 blocks/build/index.js:1
+#: blocks/src/block/block.js:273
+msgid "Embed Width"
+msgstr "Ширина встраивания"
+
+#: inc/options-page.php:116
+msgid "Fullscreen Link Text"
+msgstr "Текст ссылки для полноэкранного просмотра"
+
+#: inc/options-page.php:120
+msgid "Fullscreen Links in New Tabs"
+msgstr "Ссылки на весь экран в новых вкладках"
+
+#: inc/options-page.php:131
+msgid "Note: 0 = 100%"
+msgstr "Примечания: 0 = 100 %."
+
+#: inc/options-page.php:171
+msgid "Page Mode (aka Sidebar)"
+msgstr "Режим страницы (он же боковая панель)"
+
+#: inc/options-page.php:207
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/options-page.php:112
+msgid "Show Fullscreen Link"
+msgstr "Отображать кнопку \"На весь экран\""
+
+#: inc/options-page.php:108
+msgid "Show Print Button"
+msgstr "Показать кнопку печати"
+
+#: inc/options-page.php:144
+msgid "Show Search Button"
+msgstr "Показать кнопку поиска"
+
+#: inc/options-page.php:98
+msgid "Defaults"
+msgstr "По умолчанию"
+
+#. Description of the plugin
+#: pdfjs-viewer.php
+msgid "Embed PDFs with the gorgeous PDF.js viewer"
+msgstr "Встраивайте PDF-файлы с помощью великолепного PDF.js viewer"
+
+#: inc/options-page.php:78
+msgid "PDFjs Viewer Options"
+msgstr "PDFjs Viewer Опции"

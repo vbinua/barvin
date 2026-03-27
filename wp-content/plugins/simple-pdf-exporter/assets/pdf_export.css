@@ -1,0 +1,7 @@
+/* https://github.com/dompdf/dompdf/issues/1107 */
+
+@page {margin: 10px;}
+
+.pdf_export_body {margin: 25px 15px; font-family: Arial, sans-serif;}
+.pdf_export_wrapper img {width: 100%; height: auto; margin: 0 auto; display: block;}
+.pdf_export_p, p {padding:0; margin: 0 auto 10px;}

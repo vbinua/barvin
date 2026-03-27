@@ -1,0 +1,443 @@
+# Copyright (C) 2025 PDFjs Viewer - Embed PDFs
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: PDFjs Viewer - Embed PDFs 2.2.5\n"
+"Report-Msgid-Bugs-To: https://github.com/TwisterMc/PDF.js-Viewer-Shortcode/issues\n"
+"POT-Creation-Date: 2025-12-03 00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/options-page.php:77
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/options-page.php:81
+msgid "PDFjs Viewer Options"
+msgstr ""
+
+#: inc/options-page.php:103
+msgid "Defaults"
+msgstr ""
+
+#: inc/options-page.php:100
+msgid "These are the initial settings applied when a PDF is embedded. You can adjust them in the editor at any time. Updates to these default settings only apply to new PDF embeds, not existing ones."
+msgstr ""
+
+#: inc/options-page.php:111
+msgid "Show Save Button"
+msgstr ""
+
+#: inc/options-page.php:116
+msgid "Show Print Button"
+msgstr ""
+
+#: inc/options-page.php:121
+msgid "Show Fullscreen Link"
+msgstr ""
+
+#: inc/options-page.php:126
+msgid "Fullscreen Link Text"
+msgstr ""
+
+#: inc/options-page.php:131
+msgid "Fullscreen Links in New Tabs"
+msgstr ""
+
+#: inc/options-page.php:136
+msgid "Embed Height"
+msgstr ""
+
+#: inc/options-page.php:141
+msgid "Embed Width"
+msgstr ""
+
+#: inc/options-page.php:145
+msgid "Note: 0 = 100%"
+msgstr ""
+
+#: inc/options-page.php:149
+msgid "Global Defaults"
+msgstr ""
+
+#: inc/options-page.php:150
+msgid "These settings control how all PDFs appear on your site. Any changes you make here will affect all PDFs that use PDF.js."
+msgstr ""
+
+#: inc/options-page.php:154
+msgid "Show Search Button"
+msgstr ""
+
+#: inc/options-page.php:159
+msgid "Show Editing Buttons"
+msgstr ""
+
+#: inc/options-page.php:164
+msgid "Viewer Scale"
+msgstr ""
+
+#: inc/options-page.php:166
+msgid "Auto"
+msgstr ""
+
+#: inc/options-page.php:167
+msgid "Actual Size"
+msgstr ""
+
+#: inc/options-page.php:168
+msgid "Page Fit"
+msgstr ""
+
+#: inc/options-page.php:169
+msgid "Page Width"
+msgstr ""
+
+#: inc/options-page.php:170
+msgid "50%"
+msgstr ""
+
+#: inc/options-page.php:171
+msgid "75%"
+msgstr ""
+
+#: inc/options-page.php:172
+msgid "100%"
+msgstr ""
+
+#: inc/options-page.php:173
+msgid "125%"
+msgstr ""
+
+#: inc/options-page.php:174
+msgid "150%"
+msgstr ""
+
+#: inc/options-page.php:175
+msgid "200%"
+msgstr ""
+
+#: inc/options-page.php:178
+msgid "Page Mode (aka Sidebar)"
+msgstr ""
+
+#: inc/options-page.php:180
+msgid "None"
+msgstr ""
+
+#: inc/options-page.php:181
+msgid "Thumbs"
+msgstr ""
+
+#: inc/options-page.php:182
+msgid "Bookmarks"
+msgstr ""
+
+#: inc/options-page.php:183
+msgid "Attachments"
+msgstr ""
+
+#: inc/options-page.php:188
+msgid "Alternative PDF Loading"
+msgstr ""
+
+#: inc/options-page.php:189
+msgid "Beta. Test with caution and"
+msgstr ""
+
+#: inc/options-page.php:183
+msgid "leave feedback"
+msgstr ""
+
+#: inc/options-page.php:183
+msgid "on how it works."
+msgstr ""
+
+#: inc/options-page.php:189
+msgid "When editing existing content, it may cause existing blocks to have \"unexpected or invalid content\" upon editing. Don't worry, just click the three little dots, choose \"Attempt Block Recovery\", and everything should be working again. This \"unexpected or invalid content\" will not affect live content, just content in the editor."
+msgstr ""
+
+#: blocks/src/block/block.js:23
+msgid "Embed PDF.js Viewer"
+msgstr ""
+
+#: blocks/src/block/block.js:80
+msgid "PDF Selector"
+msgstr ""
+
+#: blocks/src/block/block.js:173
+msgid "PDF.js Options"
+msgstr ""
+
+#: blocks/src/block/block.js:178
+msgid "Show Save Option"
+msgstr ""
+
+#: blocks/src/block/block.js:182
+#: blocks/src/block/block.js:196
+#: blocks/src/block/block.js:210
+#: blocks/src/block/block.js:224
+msgid "Yes"
+msgstr ""
+
+#: blocks/src/block/block.js:183
+#: blocks/src/block/block.js:197
+#: blocks/src/block/block.js:211
+#: blocks/src/block/block.js:225
+msgid "No"
+msgstr ""
+
+#: blocks/src/block/block.js:192
+msgid "Show Print Option"
+msgstr ""
+
+#: blocks/src/block/block.js:206
+msgid "Show Fullscreen Option"
+msgstr ""
+
+#: blocks/src/block/block.js:220
+msgid "Open Fullscreen in new tab?"
+msgstr ""
+
+#: blocks/src/block/block.js:234
+msgid "Embed Height"
+msgstr ""
+
+#: blocks/src/block/block.js:239
+msgid "Viewer Height (pixels)"
+msgstr ""
+
+#: blocks/src/block/block.js:250
+msgid "Embed Width"
+msgstr ""
+
+#: blocks/src/block/block.js:255
+msgid "Viewer Width (pixels)"
+msgstr ""
+
+#: blocks/src/block/block.js:276
+msgid "PDF.js Embed"
+msgstr ""
+
+#: blocks/src/block/block.js:281
+msgid "Choose a PDF file"
+msgstr ""
+
+#: blocks/src/block/block.js:288
+msgid "Remove the current PDF file"
+msgstr ""
+
+#: blocks/src/block/block.js:291
+msgid "Remove PDF"
+msgstr ""
+
+#: blocks/src/block/block.js:301
+msgid "Open media library to choose a PDF file"
+msgstr ""
+
+#: blocks/src/block/block.js:307
+msgid "Choose a PDF file"
+msgstr ""
+
+#: blocks/src/block/block.js:322
+msgid "PDF Preview"
+msgstr ""
+
+#: blocks/src/block/block.js:346
+msgid "PDF document preview"
+msgstr ""
+
+#: blocks/src/block/block.js:220
+msgid "Open Fullscreen in new tab?"
+msgstr ""
+
+#: blocks/src/block/block.js:240
+#: inc/options-page.php:113
+msgid "Embed Height"
+msgstr ""
+
+#: blocks/src/block/block.js:244
+msgid "Viewer Height (pixels)"
+msgstr ""
+
+#: blocks/src/block/block.js:254
+#: inc/options-page.php:117
+msgid "Embed Width"
+msgstr ""
+
+#: blocks/src/block/block.js:258
+msgid "Viewer Width (pixels)"
+msgstr ""
+
+#: blocks/src/block/block.js:274
+msgid "PDF.js Embed"
+msgstr ""
+
+#: blocks/src/block/block.js:285
+msgid "Remove PDF"
+msgstr ""
+
+#: blocks/src/block/block.js:289
+msgid "Remove the current PDF file"
+msgstr ""
+
+#: blocks/src/block/block.js:297
+msgid "Choose a PDF file"
+msgstr ""
+
+#: blocks/src/block/block.js:301
+msgid "Open media library to choose a PDF file"
+msgstr ""
+
+#: blocks/src/block/block.js:325
+msgid "PDF Preview"
+msgstr ""
+
+#: blocks/src/block/block.js:342
+msgid "PDF document preview"
+msgstr ""
+
+#: inc/custom-page.php:9
+msgid "Security Check Failed"
+msgstr ""
+
+#: inc/media-button.php:14
+msgid "Add PDF"
+msgstr ""
+
+#: inc/media-button.php:17
+msgid "Add PDF to content"
+msgstr ""
+
+#: inc/render-viewer.php:99
+msgid "Open PDF in fullscreen mode"
+msgstr ""
+
+#: inc/render-viewer.php:106
+msgid "PDF Viewer"
+msgstr ""
+
+#. translators: %s: PDF file name
+#: inc/render-viewer.php:112
+msgid "PDF document: %s"
+msgstr ""
+
+#: inc/options-page.php:55
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/options-page.php:59
+msgid "PDFjs Viewer Options"
+msgstr ""
+
+#: inc/options-page.php:79
+msgid "Defaults"
+msgstr ""
+
+#: inc/options-page.php:81
+msgid "Most defaults only affect new posts and existing posts when you edit them. Not all options work with the shortcode."
+msgstr ""
+
+#: inc/options-page.php:85
+msgid "Show Save Button"
+msgstr ""
+
+#: inc/options-page.php:89
+msgid "Show Print Button"
+msgstr ""
+
+#: inc/options-page.php:93
+msgid "Show Search Button"
+msgstr ""
+
+#: inc/options-page.php:97
+msgid "Show Editing Buttons"
+msgstr ""
+
+#: inc/options-page.php:101
+msgid "Show Fullscreen Link"
+msgstr ""
+
+#: inc/options-page.php:105
+msgid "Fullscreen Link Text"
+msgstr ""
+
+#: inc/options-page.php:109
+msgid "Fullscreen Links in New Tabs"
+msgstr ""
+
+#: inc/options-page.php:120
+msgid "Note: 0 = 100%"
+msgstr ""
+
+#: inc/options-page.php:124
+msgid "Viewer Scale"
+msgstr ""
+
+#: inc/options-page.php:142
+msgid "Page Mode (aka Sidebar)"
+msgstr ""
+
+#: inc/options-page.php:153
+msgid "Alternative PDF Loading"
+msgstr ""
+
+#: inc/options-page.php:154
+msgid "leave feedback"
+msgstr ""
+
+#: inc/options-page.php:154
+msgid "on how it works."
+msgstr ""
+
+#: inc/options-page.php:159
+msgid "When editing existing content, it may cause existing blocks to have \"unexpected or invalid content\" upon editing. Don't worry, just click the three little dots, choose \"Attempt Block Recovery\", and everything should be working again. This \"unexpected or invalid content\" will not affect live content, just content in the editor."
+msgstr ""
+
+#: inc/options-page.php:162
+msgid "These options are not customizable per page/post at this time. Only globally."
+msgstr ""
+
+#: inc/options-page.php:183
+msgid "Settings"
+msgstr ""
+
+#: pdfjs-media-button.js:14
+msgid "Insert a PDF"
+msgstr ""
+
+#: pdfjs-media-button.js:17
+msgid "Insert"
+msgstr ""
+
+#: templates/fullscreen.php:11
+msgid "PDF Viewer"
+msgstr ""
+
+#: inc/admin-notice.php:51
+msgid "PDFjs Viewer has been updated.\\n\\nIf you edit a post that contains a PDF, you may see a message with an \\\"Attempt Block Recovery\\\" button. Simply click it—this is a normal part of how WordPress handles updates.\\n\\nIf you choose not to recover the block, your existing PDFs will still work perfectly, and your visitors won't see any changes."
+msgstr ""
+
+#: inc/admin-notice.php:56
+msgid "Dismiss"
+msgstr ""
+
+#: inc/admin-notice.php:123
+msgid "Insufficient permissions."
+msgstr ""
+
+#: inc/render-viewer.php:96
+msgid "Security Error:"
+msgstr ""
+
+#: inc/render-viewer.php:97
+msgid "PDF files must be hosted on the same domain as this site."
+msgstr ""
+
+#. translators: 1: PDF URL host, 2: Current site host
+#: inc/render-viewer.php:101
+msgid "PDF is hosted on: %1$s but this site is: %2$s"
+msgstr ""

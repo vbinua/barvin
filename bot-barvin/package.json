@@ -1,0 +1,30 @@
+{
+  "name": "t-n-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": ""
+  },
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.32.0",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.2",
+    "bullmq": "^5.58.8",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.1.0",
+    "ioredis": "^5.8.0",
+    "mime": "^4.1.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "pm2": "^6.0.13",
+    "potrace": "^2.1.8",
+    "sharp": "^0.34.5",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.2"
+  }
+}

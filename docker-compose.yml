@@ -1,0 +1,64 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: barvin_db
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: 'barvin'
+      MYSQL_USER: 'barvin'
+      MYSQL_PASSWORD: ']nNZElykz)7RlO25'
+      MYSQL_ROOT_PASSWORD: 'somesecretrootpassword'
+    volumes:
+      - db_data:/var/lib/mysql
+
+  redis:
+    image: redis:alpine
+    container_name: barvin_redis
+    restart: unless-stopped
+
+  wordpress:
+    build:
+      context: .
+      dockerfile: Dockerfile.wp
+    container_name: barvin_wp
+    restart: unless-stopped
+    ports:
+      - "8000:80"
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: 'barvin'
+      WORDPRESS_DB_PASSWORD: ']nNZElykz)7RlO25'
+      WORDPRESS_DB_NAME: 'barvin'
+    volumes:
+      - ./:/var/www/html
+    depends_on:
+      - db
+
+  bot_server:
+    build:
+      context: ./bot-barvin
+    container_name: barvin_bot_server
+    restart: unless-stopped
+    depends_on:
+      - db
+      - redis
+    env_file:
+      - ./bot-barvin/.env
+    command: node app.js
+
+  bot_coloring:
+    build:
+      context: ./bot-barvin
+    container_name: barvin_bot_coloring
+    restart: unless-stopped
+    depends_on:
+      - db
+      - redis
+    env_file:
+      - ./bot-barvin/.env
+    command: node ./src/capabilities/coloring-book/services/coloring-book-processor.js
+
+volumes:
+  db_data:

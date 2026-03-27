@@ -1,0 +1,360 @@
+# French (France) Translation for PDFjs Viewer - Embed PDFs
+# Copyright (C) 2025 PDFjs Viewer - Embed PDFs
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: PDFjs Viewer - Embed PDFs 2.2.5\n"
+"Report-Msgid-Bugs-To: https://github.com/TwisterMc/PDF.js-Viewer-Shortcode/issues\n"
+"POT-Creation-Date: 2025-12-03 00:00:00+00:00\n"
+"PO-Revision-Date: 2025-12-03 00:00:00+00:00\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: inc/options-page.php:77
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les permissions suffisantes pour accéder à cette page."
+
+#: inc/options-page.php:81
+msgid "PDFjs Viewer Options"
+msgstr "Options de la visionneuse PDFjs"
+
+#: inc/options-page.php:103
+msgid "Defaults"
+msgstr "Paramètres par défaut"
+
+#: inc/options-page.php:100
+msgid "These are the initial settings applied when a PDF is embedded. You can adjust them in the editor at any time. Updates to these default settings only apply to new PDF embeds, not existing ones."
+msgstr "Ce sont les paramètres initiaux appliqués lors de l'intégration d'un PDF. Vous pouvez les ajuster dans l'éditeur à tout moment. Les mises à jour de ces paramètres par défaut ne s'appliquent qu'aux nouvelles intégrations de PDF, pas aux intégrations existantes."
+
+#: inc/options-page.php:111
+msgid "Show Save Button"
+msgstr "Afficher le bouton Enregistrer"
+
+#: inc/options-page.php:116
+msgid "Show Print Button"
+msgstr "Afficher le bouton Imprimer"
+
+#: inc/options-page.php:121
+msgid "Show Fullscreen Link"
+msgstr "Afficher le lien Plein écran"
+
+#: inc/options-page.php:126
+msgid "Fullscreen Link Text"
+msgstr "Texte du lien Plein écran"
+
+#: inc/options-page.php:131
+msgid "Fullscreen Links in New Tabs"
+msgstr "Liens plein écran dans les nouveaux onglets"
+
+#: inc/options-page.php:136
+msgid "Embed Height"
+msgstr "Hauteur de l'intégration"
+
+#: inc/options-page.php:141
+msgid "Embed Width"
+msgstr "Largeur de l'intégration"
+
+#: inc/options-page.php:145
+msgid "Note: 0 = 100%"
+msgstr "Remarque: 0 = 100%"
+
+#: inc/options-page.php:149
+msgid "Global Defaults"
+msgstr "Paramètres par défaut globaux"
+
+#: inc/options-page.php:150
+msgid "These settings control how all PDFs appear on your site. Any changes you make here will affect all PDFs that use PDF.js."
+msgstr "Ces paramètres contrôlent l'apparence de tous les PDF sur votre site. Toute modification apportée ici affectera tous les PDF qui utilisent PDF.js."
+
+#: inc/options-page.php:154
+msgid "Show Search Button"
+msgstr "Afficher le bouton Rechercher"
+
+#: inc/options-page.php:159
+msgid "Show Editing Buttons"
+msgstr "Afficher les boutons d'édition"
+
+#: inc/options-page.php:164
+msgid "Viewer Scale"
+msgstr "Échelle de la visionneuse"
+
+#: inc/options-page.php:166
+msgid "Auto"
+msgstr "Automatique"
+
+#: inc/options-page.php:167
+msgid "Actual Size"
+msgstr "Taille réelle"
+
+#: inc/options-page.php:168
+msgid "Page Fit"
+msgstr "Ajustement de la page"
+
+#: inc/options-page.php:169
+msgid "Page Width"
+msgstr "Largeur de la page"
+
+#: inc/options-page.php:170
+msgid "50%"
+msgstr "50%"
+
+#: inc/options-page.php:171
+msgid "75%"
+msgstr "75%"
+
+#: inc/options-page.php:172
+msgid "100%"
+msgstr "100%"
+
+#: inc/options-page.php:173
+msgid "125%"
+msgstr "125%"
+
+#: inc/options-page.php:174
+msgid "150%"
+msgstr "150%"
+
+#: inc/options-page.php:175
+msgid "200%"
+msgstr "200%"
+
+#: inc/options-page.php:178
+msgid "Page Mode (aka Sidebar)"
+msgstr "Mode de page (barre latérale)"
+
+#: inc/options-page.php:180
+msgid "None"
+msgstr "Aucun"
+
+#: inc/options-page.php:181
+msgid "Thumbs"
+msgstr "Vignettes"
+
+#: inc/options-page.php:182
+msgid "Bookmarks"
+msgstr "Signets"
+
+#: inc/options-page.php:183
+msgid "Attachments"
+msgstr "Pièces jointes"
+
+#: inc/options-page.php:188
+msgid "Alternative PDF Loading"
+msgstr "Chargement alternatif du PDF"
+
+#: inc/options-page.php:189
+msgid "Beta. Test with caution and"
+msgstr "Bêta. Testez avec prudence et"
+
+#: inc/options-page.php:183
+msgid "leave feedback"
+msgstr "laisser un commentaire"
+
+#: inc/options-page.php:183
+msgid "on how it works."
+msgstr "sur son fonctionnement."
+
+#: inc/options-page.php:189
+msgid "When editing existing content, it may cause existing blocks to have \"unexpected or invalid content\" upon editing. Don't worry, just click the three little dots, choose \"Attempt Block Recovery\", and everything should be working again. This \"unexpected or invalid content\" will not affect live content, just content in the editor."
+msgstr "Lors de la modification du contenu existant, les blocs existants peuvent avoir un \"contenu inattendu ou invalide\" lors de la modification. Ne vous inquiétez pas, cliquez simplement sur les trois petits points, choisissez \"Tenter la récupération du bloc\", et tout devrait fonctionner à nouveau. Ce \"contenu inattendu ou invalide\" n'affectera pas le contenu en direct, seulement le contenu dans l'éditeur."
+
+#: blocks/src/block/block.js:23
+msgid "Embed PDF.js Viewer"
+msgstr "Intégrer la visionneuse PDF.js"
+
+#: blocks/src/block/block.js:206
+msgid "Show Fullscreen Option"
+msgstr "Afficher l'option plein écran"
+
+#: blocks/src/block/block.js:220
+msgid "Open Fullscreen in new tab?"
+msgstr "Ouvrir le plein écran dans un nouvel onglet ?"
+
+#: blocks/src/block/block.js:240
+#: inc/options-page.php:113
+msgid "Embed Height"
+msgstr "Hauteur d'intégration"
+
+#: blocks/src/block/block.js:244
+msgid "Viewer Height (pixels)"
+msgstr "Hauteur de la visionneuse (pixels)"
+
+#: blocks/src/block/block.js:254
+#: inc/options-page.php:117
+msgid "Embed Width"
+msgstr "Largeur d'intégration"
+
+#: blocks/src/block/block.js:258
+msgid "Viewer Width (pixels)"
+msgstr "Largeur de la visionneuse (pixels)"
+
+#: blocks/src/block/block.js:274
+msgid "PDF.js Embed"
+msgstr "Intégration PDF.js"
+
+#: blocks/src/block/block.js:285
+msgid "Remove PDF"
+msgstr "Supprimer le PDF"
+
+#: blocks/src/block/block.js:289
+msgid "Remove the current PDF file"
+msgstr "Supprimer le fichier PDF actuel"
+
+#: blocks/src/block/block.js:297
+msgid "Choose a PDF file"
+msgstr "Choisir un fichier PDF"
+
+#: blocks/src/block/block.js:301
+msgid "Open media library to choose a PDF file"
+msgstr "Ouvrir la bibliothèque de médias pour choisir un fichier PDF"
+
+#: blocks/src/block/block.js:325
+msgid "PDF Preview"
+msgstr "Aperçu du PDF"
+
+#: blocks/src/block/block.js:342
+msgid "PDF document preview"
+msgstr "Aperçu du document PDF"
+
+#: inc/custom-page.php:9
+msgid "Security Check Failed"
+msgstr "Échec de la vérification de sécurité"
+
+#: inc/media-button.php:14
+msgid "Add PDF"
+msgstr "Ajouter un PDF"
+
+#: inc/media-button.php:17
+msgid "Add PDF to content"
+msgstr "Ajouter un PDF au contenu"
+
+#: inc/render-viewer.php:99
+msgid "Open PDF in fullscreen mode"
+msgstr "Ouvrir le PDF en mode plein écran"
+
+#: inc/render-viewer.php:106
+msgid "PDF Viewer"
+msgstr "Visionneuse PDF"
+
+#. translators: %s: PDF file name
+#: inc/render-viewer.php:112
+msgid "PDF document: %s"
+msgstr "Document PDF : %s"
+
+#: inc/options-page.php:55
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les permissions suffisantes pour accéder à cette page."
+
+#: inc/options-page.php:59
+msgid "PDFjs Viewer Options"
+msgstr "Options de la visionneuse PDFjs"
+
+#: inc/options-page.php:79
+msgid "Defaults"
+msgstr "Valeurs par défaut"
+
+#: inc/options-page.php:81
+msgid "Most defaults only affect new posts and existing posts when you edit them. Not all options work with the shortcode."
+msgstr "La plupart des valeurs par défaut n'affectent que les nouvelles publications et les publications existantes lorsque vous les modifiez. Toutes les options ne fonctionnent pas avec le shortcode."
+
+#: inc/options-page.php:85
+msgid "Show Save Button"
+msgstr "Afficher le bouton de sauvegarde"
+
+#: inc/options-page.php:89
+msgid "Show Print Button"
+msgstr "Afficher le bouton d'impression"
+
+#: inc/options-page.php:93
+msgid "Show Search Button"
+msgstr "Afficher le bouton de recherche"
+
+#: inc/options-page.php:97
+msgid "Show Editing Buttons"
+msgstr "Afficher les boutons d'édition"
+
+#: inc/options-page.php:101
+msgid "Show Fullscreen Link"
+msgstr "Afficher le lien plein écran"
+
+#: inc/options-page.php:105
+msgid "Fullscreen Link Text"
+msgstr "Texte du lien plein écran"
+
+#: inc/options-page.php:109
+msgid "Fullscreen Links in New Tabs"
+msgstr "Liens plein écran dans de nouveaux onglets"
+
+#: inc/options-page.php:120
+msgid "Note: 0 = 100%"
+msgstr "Note : 0 = 100%"
+
+#: inc/options-page.php:124
+msgid "Viewer Scale"
+msgstr "Échelle de la visionneuse"
+
+#: inc/options-page.php:142
+msgid "Page Mode (aka Sidebar)"
+msgstr "Mode de page (barre latérale)"
+
+#: inc/options-page.php:153
+msgid "Alternative PDF Loading"
+msgstr "Chargement PDF alternatif"
+
+#: inc/options-page.php:154
+msgid "leave feedback"
+msgstr "laisser un commentaire"
+
+#: inc/options-page.php:154
+msgid "on how it works."
+msgstr "sur son fonctionnement."
+
+#: inc/options-page.php:159
+msgid "When editing existing content, it may cause existing blocks to have \"unexpected or invalid content\" upon editing. Don't worry, just click the three little dots, choose \"Attempt Block Recovery\", and everything should be working again. This \"unexpected or invalid content\" will not affect live content, just content in the editor."
+msgstr "Lors de la modification de contenu existant, cela peut entraîner l'apparition de \"contenu inattendu ou non valide\" dans les blocs existants. Ne vous inquiétez pas, cliquez simplement sur les trois petits points, choisissez \"Tentative de récupération du bloc\" et tout devrait fonctionner à nouveau. Ce \"contenu inattendu ou non valide\" n'affectera pas le contenu en direct, seulement le contenu dans l'éditeur."
+
+#: inc/options-page.php:162
+msgid "These options are not customizable per page/post at this time. Only globally."
+msgstr "Ces options ne sont pas personnalisables par page/publication pour le moment. Seulement globalement."
+
+#: inc/options-page.php:183
+msgid "Settings"
+msgstr "Paramètres"
+
+#: pdfjs-media-button.js:14
+msgid "Insert a PDF"
+msgstr "Insérer un PDF"
+
+#: pdfjs-media-button.js:17
+msgid "Insert"
+msgstr "Insérer"
+
+#: inc/admin-notice.php:51
+msgid "PDFjs Viewer has been updated.\\n\\nIf you edit a post that contains a PDF, you may see a message with an \\\"Attempt Block Recovery\\\" button. Simply click it—this is a normal part of how WordPress handles updates.\\n\\nIf you choose not to recover the block, your existing PDFs will still work perfectly, and your visitors won't see any changes."
+msgstr "PDFjs Viewer a été mis à jour.\\n\\nSi vous modifiez un article contenant un PDF, vous pourriez voir un message avec un bouton \\\"Tentative de récupération du bloc\\\". Cliquez simplement dessus : c'est une partie normale de la façon dont WordPress gère les mises à jour.\\n\\nSi vous choisissez de ne pas récupérer le bloc, vos PDFs existants continueront de fonctionner parfaitement et vos visiteurs ne verront aucun changement."
+
+#: inc/admin-notice.php:56
+msgid "Dismiss"
+msgstr "Ignorer"
+
+#: inc/admin-notice.php:123
+msgid "Insufficient permissions."
+msgstr "Permissions insuffisantes."
+
+#: inc/render-viewer.php:96
+msgid "Security Error:"
+msgstr "Erreur de sécurité :"
+
+#: inc/render-viewer.php:97
+msgid "PDF files must be hosted on the same domain as this site."
+msgstr "Les fichiers PDF doivent être hébergés sur le même domaine que ce site."
+
+#. translators: 1: PDF URL host, 2: Current site host
+#: inc/render-viewer.php:101
+msgid "PDF is hosted on: %1$s but this site is: %2$s"
+msgstr "Le PDF est hébergé sur : %1$s mais ce site est : %2$s"

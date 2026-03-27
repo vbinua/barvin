@@ -1,0 +1,6 @@
+.buybook .box { display: none; width: 105px; }
+.buybook .box img { margin: 3px 3px 0px 0px; }
+.buybook .btbalign { float: left; margin-right: 5px; }
+.buybook .toggle { float: left; }
+.buybook .dualcolumn { width: 45%; margin-right: 5%; }
+.buybook .tricolumn { width: 30%; margin-right: 3%; }

@@ -1,0 +1,2020 @@
+# Translation of Plugins - PDF &amp; Print by BestWebSoft &#8211; WordPress Posts and Pages PDF Generator Plugin - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - PDF &amp; Print by BestWebSoft &#8211; WordPress Posts and Pages PDF Generator Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-12-08 19:03:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - PDF &amp; Print by BestWebSoft &#8211; WordPress Posts and Pages PDF Generator Plugin - Stable (latest release)\n"
+
+#: includes/class-pdfprnt-settings.php:338
+msgid "Sorry, your nonce did not verify."
+msgstr "Ваш ідентифікатор не підтверджено."
+
+#: bws_menu/class-bws-settings.php:978
+msgid "Security check"
+msgstr "Перевірка безпеки"
+
+#: bws_menu/class-bws-settings.php:544
+msgid "The ability to add custom code is available in the Pro version. If the Pro version is not available please contact us via Help Center"
+msgstr "Можливість додавати власний код доступна у версії Pro. Якщо версія Pro недоступна, зв’яжіться з нами через довідковий центр"
+
+#: includes/pro_banners.php:185
+msgid "Enable to add \"Written by\" text before an author's name."
+msgstr "Увімкніть додавання тексту \"Автор\" перед іменем автора."
+
+#: includes/pro_banners.php:181
+msgid "\"Written by\" Text"
+msgstr "\"Написано\" Текст"
+
+#: includes/pro_banners.php:120
+msgid "The day when the post was created."
+msgstr "День створення допису"
+
+#: includes/pro_banners.php:117
+msgid "The month when the post was created."
+msgstr "Місяць створення допису"
+
+#: includes/pro_banners.php:114
+msgid "The year when the post was created."
+msgstr "Рік створення допису"
+
+#: includes/pro_banners.php:111
+msgid "Author of the post."
+msgstr "Автор запису"
+
+#: includes/pro_banners.php:108
+msgid "Title of the site."
+msgstr "Назва сайту"
+
+#: includes/pro_banners.php:105
+msgid "Title of the post."
+msgstr "Назва допису"
+
+#: includes/pro_banners.php:102
+msgid "The full date when the post was created"
+msgstr "Повна дата створення допису"
+
+#: bws_menu/bws_functions.php:653
+msgid "Start Now"
+msgstr "Почати"
+
+#: bws_menu/bws_functions.php:648
+msgid "Get commission!"
+msgstr "Отримайте комiсiю!"
+
+#: bws_menu/bws_functions.php:644
+msgid "Promote and sell products"
+msgstr "Рекламувати та продавати продукцію"
+
+#: bws_menu/bws_functions.php:640
+msgid "Join affiliate program"
+msgstr "Приєднуйтесь до партнерської програми"
+
+#: bws_menu/bws_functions.php:636
+msgid "from each BestWebSoft plugin and theme sale you refer"
+msgstr "з кожного продажу плагінів та тем BestWebSoft, на які ви посилаєтесь"
+
+#: bws_menu/bws_functions.php:635
+msgid "Get %s"
+msgstr "Отримати %s"
+
+#: bws_menu/bws_functions.php:634
+msgid "Affiliate Program"
+msgstr "Партнерська програма"
+
+#: pdf-print.php:1384 pdf-print.php:1515
+msgid "written by"
+msgstr "написано"
+
+#: includes/class-pdfprnt-settings.php:758
+msgid "Load additional fonts required for correct PDF file(-s) display."
+msgstr "Завантажити необхідні додаткові шрифти для PDF файлу(-ів)."
+
+#: includes/class-pdfprnt-settings.php:691
+#: includes/class-pdfprnt-settings.php:695
+#: includes/class-pdfprnt-settings.php:700
+msgid "for posts only"
+msgstr "Тільки для постів"
+
+#: includes/class-pdfprnt-settings.php:689
+msgid "Author"
+msgstr "Автор"
+
+#: includes/class-pdfprnt-settings.php:608
+msgid "Enable to take a screenshot of the entire page and generate a PDF file from it."
+msgstr "Увімкніть знімок екрана всієї сторінки та згенеруйте з нього файл PDF."
+
+#: includes/class-pdfprnt-settings.php:604
+msgid "Full Page Capture to PDF"
+msgstr "PDF всієї сторінки"
+
+#: includes/class-pdfprnt-settings.php:145
+msgid "Posts page"
+msgstr "Сторінка дописів"
+
+#: bws_menu/class-bws-settings.php:1282
+msgid "Thank you!"
+msgstr "Дякуємо!"
+
+#: bws_menu/class-bws-settings.php:1280
+msgid "Submit"
+msgstr "Підтвердити"
+
+#: bws_menu/class-bws-settings.php:1272
+msgid "Describe your idea"
+msgstr "Опишіть свою ідею"
+
+#: bws_menu/class-bws-settings.php:1270
+msgid "We look forward to hear your ideas."
+msgstr "Ми будемо раді почути ваші ідеї."
+
+#: bws_menu/class-bws-settings.php:1268
+msgid "How can we improve %s?"
+msgstr "Як ми можемо покращити %s?"
+
+#: bws_menu/class-bws-settings.php:1262
+msgid "Request a Feature"
+msgstr "Запропонувати функціонал"
+
+#: bws_menu/product_list.php:27
+msgid "Give a birth for your bike rental and booking WordPress website."
+msgstr "Дайте народження вашому WordPress сайту для бронювання і прокату велосипедів."
+
+#: includes/class-pdfprnt-settings.php:853
+msgid "Create a page break in PDF document:"
+msgstr "Створіть розрив сторінки в документі PDF:"
+
+#: includes/class-pdfprnt-settings.php:658
+msgid "Enable to remove links from PDF and Print document."
+msgstr "Увімкнути видалення посилань із PDF та Print документа."
+
+#: includes/class-pdfprnt-settings.php:654
+msgid "Remove Links"
+msgstr "Dдалити посилання"
+
+#: includes/pro_banners.php:564 includes/pro_banners.php:619
+msgid "Title of the post (for single posts or pages only)"
+msgstr "Назва поста/сторінки (тільки для сторінок окремих записів чи статичних сторінок)"
+
+#: includes/pro_banners.php:292
+msgid "Enable to show data before page title"
+msgstr "Активуйте, щоб відобразити контент перед назвою поста/сторінки"
+
+#: bws_menu/product_list.php:96
+msgid "Protect WordPress website forms from spam entries with reCaptcha."
+msgstr "Захищайте форми вашого сайту WordPress від спаму за допомогою reCaptcha."
+
+#: pdf-print.php:1097
+msgid "Loading the mPDF library. It will take few minutes."
+msgstr "Завантаження бібліотеки mPDF. Це займе кілька хвилин."
+
+#: pdf-print.php:370
+msgid "%1$sChange the settings%2$s to view the Pro options."
+msgstr "%1$sЗмініть налаштування%2$s, щоб переглянути Pro опції."
+
+#: pdf-print.php:368
+msgid "This tab contains Pro options only."
+msgstr "Ця вкладка містить лише Pro опції."
+
+#: includes/pro_banners.php:338
+msgid "Disable the \"Show PDF & Print Custom Fields\" option for all Posts."
+msgstr "Увімкнути опцію \"Відображати користувацькі поля PDF & Print\" для всіх Записів."
+
+#: includes/pro_banners.php:336
+msgid "Disable Now"
+msgstr "Відключити"
+
+#: includes/pro_banners.php:333
+msgid "Disable the \"Show PDF & Print Custom Fields\" option"
+msgstr "Вимкнути опцію \"Показати користувацькі поля PDF & Print\""
+
+#: includes/pro_banners.php:326
+msgid "Custom fields are visible even if the \"Show PDF & Print Custom Fields\" option is disabled."
+msgstr "Користувацькі поля відображаються, навіть якщо відключена опція \"Відображати користувацькі поля PDF & Print\"."
+
+#: includes/pro_banners.php:318
+msgid "Custom fields are hidden even if the \"Show PDF & Print Custom Fields\" option is enabled."
+msgstr "Користувацькі поля не відображаються, навіть якщо включена опція \"Відображати користувацькі поля PDF & Print\"."
+
+#: includes/class-pdfprnt-settings.php:775
+msgid "Enable to apply CSS from the current theme. Disable to use default CSS."
+msgstr "Увімкніть, щоб застосувати CSS з поточної теми. Відключити, щоб використовувати CSS за замовчуванням."
+
+#: includes/class-pdfprnt-settings.php:537
+msgid "Default PDF Button Action"
+msgstr "Дія PDF кнопки"
+
+#: bws_menu/bws_menu.php:696 bws_menu/bws_menu.php:725
+msgid "Get Pro"
+msgstr "Отримати Pro"
+
+#: bws_menu/bws_menu.php:525
+msgid "Licenses & Domains"
+msgstr "Ліцензії та домени"
+
+#: bws_menu/bws_menu.php:522 bws_menu/class-bws-settings.php:885
+msgid "Knowledge Base"
+msgstr "База знань"
+
+#: bws_menu/bws_menu.php:516 bws_menu/class-bws-settings.php:879
+msgid "Get Started"
+msgstr "Почати"
+
+#: bws_menu/bws_menu.php:513 bws_menu/class-bws-settings.php:875
+msgid "How to install WordPress plugin from your admin Dashboard (ZIP archive)"
+msgstr "Як встановити WordPress плагін з вашої панелі адміністратора (ZIP архів)"
+
+#: bws_menu/bws_menu.php:511 bws_menu/class-bws-settings.php:873
+msgid "Need help installing the plugin?"
+msgstr "Потрібна допомога в установці плагіна?"
+
+#: bws_menu/bws_menu.php:507 bws_menu/class-bws-settings.php:869
+msgid "Download Now"
+msgstr "Завантажити Зараз"
+
+#: bws_menu/bws_menu.php:504 bws_menu/class-bws-settings.php:866
+msgid "Your plugin has been zipped, and now is ready to download."
+msgstr "Ваш плагін був спакованний і тепер готовий до завантаження."
+
+#: bws_menu/bws_menu.php:502 bws_menu/class-bws-settings.php:864
+msgid "Your Pro plugin is ready"
+msgstr "Ваш Pro плагін готовий"
+
+#: bws_menu/bws_menu.php:500
+msgid "Download Pro Plugin"
+msgstr "Завантажити Pro плагін"
+
+#: bws_menu/bws_menu.php:212
+msgid "Mb"
+msgstr "Мб"
+
+#: bws_menu/deactivation-form.php:130
+msgid "Skip and Deactivate"
+msgstr "Пропустити і деактивувати"
+
+#: includes/pro_banners.php:245
+msgid "Enable to show all Advanced Custom Fields."
+msgstr "Увімкнути показ усіх розширених користувацьких полів."
+
+#: includes/pro_banners.php:241
+msgid "Show Advanced Custom Fields"
+msgstr "Додати розширені користувацькі поля"
+
+#: pdf-print.php:1767
+msgid "Cannot extract files into %s folder. Check your permissions."
+msgstr "Cannot extract files into %s folder. Check your permissions."
+
+#: pdf-print.php:1757
+msgid "The mPDF library has been loaded successfully."
+msgstr "mPDF бібліотеки була успішно завантажена."
+
+#: includes/class-pdfprnt-settings.php:926
+msgid "ZipArchive сlass is not installed on your server. It is impossible to upgrade the mPDF library."
+msgstr "Клас ZipArchive не встановлений на вашому сервері. Неможливо оновити mPDF бібліотеку."
+
+#: includes/class-pdfprnt-settings.php:912
+msgid "Upgrade"
+msgstr "Оновити"
+
+#: includes/class-pdfprnt-settings.php:907
+msgid "Upgrade the mPDF library"
+msgstr "Оновіть бібліотеку mPDF"
+
+#: includes/pro_banners.php:236
+msgid "Enable to prevent PDF files from being copied."
+msgstr "Увімкніть, щоб заборонити користувачу копіювати вміст PDF файлу."
+
+#: includes/pro_banners.php:232
+msgid "Prevent Copying"
+msgstr "Захист від копіювання"
+
+#: includes/class-pdfprnt-settings.php:849
+msgid "Add PDF & Print buttons to your posts or pages using the following shortcode:"
+msgstr "Додати кнопки PDF & Print на ваші записи або сторінки за допомогою наступного шорткода:"
+
+#: includes/class-pdfprnt-settings.php:845
+msgid "Add Print button to your posts or pages using the following shortcode:"
+msgstr "Додати кнопки Print на ваші записи, сторінки, користувацькі типи записів або віджети за допомогою даного шорткода:"
+
+#: includes/class-pdfprnt-settings.php:841
+msgid "Add PDF button to your posts or pages using the following shortcode:"
+msgstr "Додати кнопки PDF на ваші записи, сторінки, користувацькі типи записів або віджети за допомогою даного шорткода:"
+
+#: includes/class-pdfprnt-settings.php:838
+msgid "Navigate to Widgets"
+msgstr "Перейти до Віджетів"
+
+#: includes/class-pdfprnt-settings.php:838
+msgid "Add PDF & Print buttons to a widget."
+msgstr "Додайте кнопки PDF & Print в віджет."
+
+#: includes/class-pdfprnt-settings.php:835
+msgid "PDF & Print Shortcode"
+msgstr "Шорткод кнопок PDF & Print"
+
+#: includes/class-pdfprnt-settings.php:667
+msgid "Enable to remove hover link styles in PDF document."
+msgstr "Увімкніть, щоб прибрати стилі посилання при наведенні в PDF документі."
+
+#: includes/class-pdfprnt-settings.php:663
+msgid "Link Annotations"
+msgstr "Маркування посилання"
+
+#: includes/class-pdfprnt-settings.php:581
+msgid "Unauthorized"
+msgstr "Неавторизований"
+
+#: includes/class-pdfprnt-settings.php:563
+msgid "Enable Buttons for"
+msgstr "Включити кнопки для"
+
+#: includes/class-pdfprnt-settings.php:544
+msgid "Open PDF"
+msgstr "Відкрити PDF"
+
+#: includes/class-pdfprnt-settings.php:541 pdf-print.php:592
+msgid "Download PDF"
+msgstr "Завантажити PDF"
+
+#: includes/pro_banners.php:345
+msgid "Products"
+msgstr "Товари"
+
+#: includes/pro_banners.php:344
+msgid "Pages"
+msgstr "Сторінки"
+
+#: includes/pro_banners.php:323
+msgid "Force Show"
+msgstr "Примусово відобразити"
+
+#: includes/pro_banners.php:315
+msgid "Force Hide"
+msgstr "Примусово приховати"
+
+#: includes/pro_banners.php:310
+msgid "Custom fields are shown by default. You can hide them using \"Do not show PDF & Print Custom fields\" option."
+msgstr "Користувацькі поля відображаються за замовчуванням. Ви можете сховати їх, використовуючи опцію \"Відображати користувацькі поля PDF & Print\"."
+
+#: includes/pro_banners.php:303
+msgid "Custom Fields Displaying"
+msgstr "Відображення користувацьких полів"
+
+#: includes/pro_banners.php:298
+msgid "Data After Content"
+msgstr "Дані після контенту"
+
+#: includes/pro_banners.php:289
+msgid "Data Before Content"
+msgstr "Дані перед контентом"
+
+#: includes/pro_banners.php:285
+msgid "Posts"
+msgstr "Записи"
+
+#: includes/pro_banners.php:282
+msgid "Add custom fields and custom data before/after PDF & Print document's content"
+msgstr "Додати користувацькі поля і  користувацькі дані перед/після контенту документа"
+
+#: includes/pro_banners.php:279
+msgid "Available Registered Post Types:"
+msgstr "Доступні зареєстровані типи записів:"
+
+#: includes/pro_banners.php:220
+msgid "Watermark Opacity"
+msgstr "Ступінь прозорості водяного знаку"
+
+#: includes/class-pdfprnt-settings.php:820
+msgid "Custom Fields Settings"
+msgstr "Налаштування користувацьких полей"
+
+#: includes/class-pdfprnt-settings.php:707
+msgid "Featured Image Size"
+msgstr "Розмір зображення запису"
+
+#: includes/class-pdfprnt-settings.php:613
+msgid "PDF Page Size"
+msgstr "Розмір PDF сторінки"
+
+#: includes/class-pdfprnt-settings.php:100
+msgid "Custom Fields"
+msgstr "Користувацькі поля"
+
+#: pdf-print.php:1723
+msgid "Cannot create %s folder. Check your permissions."
+msgstr "Неможливо створити папку %s. Перевірте ваші права."
+
+#: pdf-print.php:1713 pdf-print.php:1841
+msgid "Additional fonts were loaded successfully."
+msgstr "Додаткові шрифти були успішно завантажені."
+
+#: includes/class-pdfprnt-settings.php:267 pdf-print.php:1100
+msgid "It is necessary to reload fonts. For more info, please see %s."
+msgstr "Необхідно перезавантажити шрифти. Більш детальну інформацію дивіться %s."
+
+#: includes/class-pdfprnt-settings.php:261
+msgid "Some fonts were removed from %s folder."
+msgstr "Деякі шрифти з папки %s були видалені."
+
+#: includes/class-pdfprnt-settings.php:253
+msgid "The folder %s was removed."
+msgstr "Папка %s була видалена."
+
+#: includes/class-pdfprnt-settings.php:208
+msgid "Pdf&Print plugin requires PHP %s or higher. Please contact your hosting provider to upgrade PHP version."
+msgstr "Плагін Pdf & Print вимагає PHP версії %s або вище. Будь-ласка верніться до свого хостинг-провайдера для оновлення версії PHP."
+
+#: bws_menu/product_list.php:86
+msgid "Stronger security solution which protects your WordPress website from hacks and unauthorized login attempts."
+msgstr "Найпотужніше рішення безпеки, яке захищає ваш сайт WordPress від зломів та неавторизованих спроб входу в систему."
+
+#: bws_menu/product_list.php:39
+msgid "Best secure captcha plugin to protect your WordPress forms."
+msgstr "Кращий плагін капчі, який захистить форми вашого WordPress сайту."
+
+#: bws_menu/deactivation-form.php:276
+msgid "Please tell us the reason so we can improve it."
+msgstr "Будь ласка, повідомте нам причину, щоб ми могли покращити плагін."
+
+#: bws_menu/deactivation-form.php:129
+msgid "Submit and Deactivate"
+msgstr "Надіслати і деактивувати"
+
+#: bws_menu/class-bws-settings.php:1281 bws_menu/deactivation-form.php:131
+msgid "Processing"
+msgstr "Обробка"
+
+#: bws_menu/class-bws-settings.php:1275 bws_menu/deactivation-form.php:124
+msgid "Send website data and allow to contact me back"
+msgstr "Надіслати дані сайту і дозволити зв'язатися зі мною"
+
+#: bws_menu/deactivation-form.php:99
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "Якщо у вас є час, будь ласка, повідомте нам, чому ви деактивуете плагін"
+
+#: bws_menu/deactivation-form.php:97
+msgid "Quick Feedback"
+msgstr "Швидкий відгук"
+
+#: bws_menu/deactivation-form.php:82
+msgid "It's a temporary deactivation, I'm just debugging an issue"
+msgstr "Це тимчасова деактивація, я просто відлагоджую проблему"
+
+#: bws_menu/deactivation-form.php:76
+msgid "I no longer need the plugin"
+msgstr "Плагін мені більше не потрібен"
+
+#: bws_menu/deactivation-form.php:72
+msgid "What feature?"
+msgstr "Який функціонал?"
+
+#: bws_menu/deactivation-form.php:70
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "Плагін чудовий, але мені потрібен певний функціонал, якого у вас немає"
+
+#: bws_menu/deactivation-form.php:66
+msgid "What's the plugin name?"
+msgstr "Яка назва плагіна?"
+
+#: bws_menu/deactivation-form.php:64
+msgid "I found a better plugin"
+msgstr "Я знайшов кращий плагін"
+
+#: bws_menu/deactivation-form.php:57
+msgid "I couldn't understand how to get it work"
+msgstr "Я не можу зрозуміти, як змусити його працювати"
+
+#: bws_menu/deactivation-form.php:50
+msgid "The plugin broke my site"
+msgstr "Плагін зламав мій сайт"
+
+#: bws_menu/deactivation-form.php:43
+msgid "The plugin suddenly stopped working"
+msgstr "Плагін раптово перестав працювати"
+
+#: bws_menu/deactivation-form.php:39
+msgid "What did you expect?"
+msgstr "Що саме ви очікували?"
+
+#: bws_menu/deactivation-form.php:37
+msgid "The plugin didn't work as expected"
+msgstr "Плагін не працює, як очікувалося"
+
+#: bws_menu/deactivation-form.php:33
+msgid "Kindly share what didn't work so we can fix it in future updates..."
+msgstr "Будь ласка, повідомте, що не працює, щоб ми змогли виправити це в майбутніх оновленнях..."
+
+#: bws_menu/deactivation-form.php:31
+msgid "The plugin is not working"
+msgstr "Плагін не працює"
+
+#: bws_menu/deactivation-form.php:26
+msgid "Contact Support"
+msgstr "Зв'язатися з тех. підтримкою"
+
+#: bws_menu/deactivation-form.php:26
+msgid "Need help? We are ready to answer your questions."
+msgstr "Потрібна допомога? Ми готові відповісти на ваші питання."
+
+#: bws_menu/class-bws-settings.php:1139
+msgid "Unfortunately, Your license has expired. To continue getting top-priority support and plugin updates, you should extend it in your %s."
+msgstr "На жаль, ваша ліцензія скінчилась. Для того, щоб і надалі отримувати першочергову тех.підтримку і оновлення, будь ласка, продовжте ліцензію у %s."
+
+#: bws_menu/bws_functions.php:125
+msgid "%s reviews"
+msgstr "%s відгуки"
+
+#: pdf-print.php:1190
+msgid "Search Results for: %s"
+msgstr "Результати пошуку для: %s"
+
+#: pdf-print.php:348
+msgid "Header & Footer Template"
+msgstr "Шаблон колонтитулів"
+
+#: pdf-print.php:46 pdf-print.php:351
+msgid "Headers & Footers"
+msgstr "Колонтитули"
+
+#: includes/pro_banners.php:660
+msgid "immediately"
+msgstr "відразу"
+
+#: includes/pro_banners.php:656
+msgid "New"
+msgstr "Новий"
+
+#: includes/pro_banners.php:649 includes/pro_banners.php:660
+msgid "Publish"
+msgstr "Опублікувати"
+
+#: includes/pro_banners.php:589
+msgid "Footer"
+msgstr "Підвал"
+
+#: includes/pro_banners.php:584 includes/pro_banners.php:639
+msgid "for single posts or pages only"
+msgstr "тільки для сторінок окремих записів чи статичних сторінок"
+
+#: includes/pro_banners.php:584 includes/pro_banners.php:639
+msgid "Author of the post"
+msgstr "Автор запису"
+
+#: includes/pro_banners.php:579 includes/pro_banners.php:634
+msgid "You can specify your own DateTime format for {DATE} and {POSTDATE} shortcodes. For example"
+msgstr "Ви можете вказати свій власний формат дати для шорткодів {DATE} чи {POSTDATE}. Наприклад"
+
+#: includes/pro_banners.php:576 includes/pro_banners.php:631
+msgid "this shortcode will be replaced to the current date on search or archive pages"
+msgstr "для сторінок пошуку та архивів цей шорткод буде замінено на поточну дату"
+
+#: includes/pro_banners.php:576 includes/pro_banners.php:631
+msgid "The date when the post was created"
+msgstr "Дата створення запису"
+
+#: includes/pro_banners.php:573 includes/pro_banners.php:628
+msgid "Current date"
+msgstr "Поточна дата"
+
+#: includes/pro_banners.php:570 includes/pro_banners.php:625
+msgid "Link to the page where the document was generated"
+msgstr "Посилання на сторінку, звідки документ був створений"
+
+#: includes/pro_banners.php:567 includes/pro_banners.php:622
+msgid "Number of all pages in the document (for PDF only)"
+msgstr "Кількість всіх сторінок в документі (тільки для PDF)"
+
+#: includes/pro_banners.php:561 includes/pro_banners.php:616
+msgid "Current page number (for PDF only)"
+msgstr "Номер сторінки (тільки для PDF)"
+
+#: includes/pro_banners.php:100 includes/pro_banners.php:559
+#: includes/pro_banners.php:614
+msgid "Available shortcodes"
+msgstr "Доступні шорткоди"
+
+#: includes/pro_banners.php:534
+msgid "Header"
+msgstr "Верхній колонтитул"
+
+#: includes/pro_banners.php:416 includes/pro_banners.php:439
+#: includes/pro_banners.php:462
+msgid "Edit"
+msgstr "Редагувати"
+
+#: includes/pro_banners.php:402 includes/pro_banners.php:430
+#: includes/pro_banners.php:453 includes/pro_banners.php:476
+#: includes/pro_banners.php:494
+msgid "Date Added"
+msgstr "Дата створення"
+
+#: includes/pro_banners.php:392
+msgid "Select All"
+msgstr "Вибрати все"
+
+#: includes/pro_banners.php:264
+msgid "Show URL"
+msgstr "Відображати URL"
+
+#: includes/pro_banners.php:207
+msgid "Watermark Protection"
+msgstr "Водяний знак"
+
+#: includes/pro_banners.php:199
+msgid "Variations"
+msgstr "Варіації продукту"
+
+#: includes/pro_banners.php:196
+msgid "Gallery"
+msgstr "Галерея продукту"
+
+#: includes/pro_banners.php:193
+msgid "Short Description"
+msgstr "Короткий опис"
+
+#: includes/pro_banners.php:190
+msgid "WooCommerce Product Details"
+msgstr "Деталі продукту WooCommerce"
+
+#: includes/pro_banners.php:94
+msgid "Post/page slug"
+msgstr "Слаг записа/сторінки"
+
+#: includes/pro_banners.php:91
+msgid "Default PDF File Name"
+msgstr "Назва PDF файлу за замовчуванням"
+
+#: includes/pro_banners.php:73
+msgid "Enable to disallow search engines from indexing PDF & Print pages."
+msgstr "Увімкніть для заборони індексування пошуковими системами сторінок PDF & Print."
+
+#: includes/pro_banners.php:70
+msgid "Search Engine Visibility"
+msgstr "Видимість пошуковим системам"
+
+#: includes/class-pdfprnt-settings.php:807
+msgid "Display Settings"
+msgstr "Налаштування відображення"
+
+#: includes/class-pdfprnt-settings.php:786
+msgid "Enable to add custom CSS code to documents."
+msgstr "Увімкніть щоб додати користувацький CSS код  до документів."
+
+#: includes/class-pdfprnt-settings.php:781
+msgid "Custom CSS"
+msgstr "Користувацький CSS"
+
+#: includes/class-pdfprnt-settings.php:770
+msgid "Default CSS"
+msgstr "CSS за замовчуванням"
+
+#: includes/class-pdfprnt-settings.php:734
+msgid "Additional Fonts"
+msgstr "Додаткові шрифти"
+
+#: includes/class-pdfprnt-settings.php:685
+msgid "Additional Elements"
+msgstr "Додаткові елементи"
+
+#: includes/class-pdfprnt-settings.php:636
+msgid "px"
+msgstr "пікс"
+
+#: includes/class-pdfprnt-settings.php:629
+msgid "Margins"
+msgstr "Зовнішні відступи"
+
+#: includes/class-pdfprnt-settings.php:596
+msgid "Document Output Settings"
+msgstr "Налаштування виводу документа"
+
+#: includes/class-pdfprnt-settings.php:649
+msgid "Enable to print shortcodes with data generated by other plugins (recommended)."
+msgstr "Увімкніть для виведення даних, доданих за допомогою шорткодів інших плагінів (рекомендується)."
+
+#: includes/class-pdfprnt-settings.php:645
+msgid "Print Shortcodes"
+msgstr "Обробка шорткодів"
+
+#: includes/class-pdfprnt-settings.php:526
+msgid "Enable to display print preview window with advanced settings."
+msgstr "Увімкніть для відображення вікна попереднього перегляду друку з розширеним налаштуванням."
+
+#: includes/class-pdfprnt-settings.php:522
+msgid "Print Preview Window"
+msgstr "Попередній перегляд кнопки Print"
+
+#: includes/class-pdfprnt-settings.php:509
+msgid "Button Title"
+msgstr "Заголовки кнопок"
+
+#: includes/class-pdfprnt-settings.php:496
+msgid "Default Image"
+msgstr "Зображення за замовчуванням"
+
+#: includes/class-pdfprnt-settings.php:484
+msgid "Button Image"
+msgstr "Зображення кнопок"
+
+#: includes/class-pdfprnt-settings.php:480
+msgid "Select buttons position in the content (default is Top Right)."
+msgstr "Виберіть позицію кнопок в контенті (за замовчуванням зверху праворуч)."
+
+#: includes/class-pdfprnt-settings.php:469
+msgid "Buttons Position"
+msgstr "Позиція кнопок"
+
+#: includes/class-pdfprnt-settings.php:465
+msgid "Follow the instruction in order to add the PDF & Print button to a custom post or page template."
+msgstr "Дотримуйтесь інструкцій, щоб додати кнопки PDF & Print до користувацького записа або шаблона."
+
+#: includes/class-pdfprnt-settings.php:449
+msgid "Add Button to"
+msgstr "Додати кнопки в"
+
+#: includes/class-pdfprnt-settings.php:279
+msgid "It is necessary to reload fonts. For more info, please see %s"
+msgstr "Необхідно перезавантажити шрифти. Більш детальну інформацію дивіться %s"
+
+#: includes/class-pdfprnt-settings.php:232
+msgid "Warning: Not enough permissions for the folder"
+msgstr "Увага: Не вистачає прав на папку"
+
+#: includes/class-pdfprnt-settings.php:206
+msgid "Please enable JavaScript in your browser."
+msgstr "Будь ласка, увімкніть JavaScript у вашому браузері."
+
+#: includes/class-pdfprnt-settings.php:144
+msgid "Archives"
+msgstr "Архіви"
+
+#: includes/class-pdfprnt-settings.php:143
+msgid "Search results"
+msgstr "Результати пошуку"
+
+#: includes/class-pdfprnt-settings.php:98
+msgid "Misc"
+msgstr "Різне"
+
+#: includes/class-pdfprnt-settings.php:95
+msgid "Display"
+msgstr "Відображення"
+
+#: includes/class-pdfprnt-settings.php:93
+msgid "Output"
+msgstr "Виведення"
+
+#: bws_menu/product_list.php:203
+msgid "Powerful user role management plugin for WordPress website. Create, edit, copy, and delete user roles."
+msgstr "Ефективний плагін управління ролями користувачів для сайту WordPress. Створюйте, редагуйте, копіюйте і видаляйте ролі користувачів."
+
+#: bws_menu/product_list.php:193
+msgid "Automatically check and update WordPress website core with all installed plugins and themes to the latest versions."
+msgstr "Виконуйте автоматичну перевірку і оновлення ядра WordPress до останніх версій з усіма встановленими плагінами та темами."
+
+#: bws_menu/product_list.php:186
+msgid "Add customizable quotes and tips blocks to WordPress posts, pages and widgets."
+msgstr "Додавайте редаговані цитати та підказки до постів, сторінок і віджетів WordPress."
+
+#: bws_menu/product_list.php:176
+msgid "Add extra fields to default WordPress user profile. The easiest way to create and manage additional custom values."
+msgstr "Додавайте користувацькі поля у стандартний профіль WordPress. Найпростіший спосіб створення і управління додатковими полями."
+
+#: bws_menu/product_list.php:156
+msgid "Add customizable pagination to WordPress website. Split long content to multiple pages for better navigation."
+msgstr "Додавайте пагінацію з можливістю налаштування на ваш сайт WordPress. Розбивайте об'ємний контент на декілька сторінок для кращої навігації."
+
+#: bws_menu/product_list.php:146
+msgid "Translate WordPress website content to other languages manually. Create multilingual pages, posts, widgets, menus, etc."
+msgstr "Перекладайте вміст сайту WordPress іншими мовами вручну. Створюйте багатомовні сторінки, пости, віджети, меню і т.д."
+
+#: bws_menu/product_list.php:136
+msgid "Add LinkedIn Share and Follow buttons to WordPress posts, pages and widgets. 5 plugins included – profile, insider, etc."
+msgstr "Додавайте кнопки LinkedIn \"Поділитися\" та \"Відстежувати\" до постів, сторінок і віджетів WordPress. 5 плагінів включено - Профіль, Інсайдер і т.д."
+
+#: bws_menu/product_list.php:126
+msgid "Protect WordPress website against brute force attacks. Limit rate of login attempts."
+msgstr "Захищайте свій сайт WordPress від брутфорс-атак. Обмежуйте кількість спроб введення логіна."
+
+#: bws_menu/product_list.php:116
+msgid "Protect WordPress website – allow and deny access for certain IP addresses, hostnames, etc."
+msgstr "Захистіть свій сайт WordPress - надавайте та забороняйте доступ з певних IP-адрес, імен хостів і т.д."
+
+#: bws_menu/product_list.php:106
+msgid "Generate and add XML sitemap to WordPress website. Help search engines index your blog."
+msgstr "Створюйте та додавайте файли XML sitemap на ваш сайт WordPress. Допоможіть пошуковим системам проіндексувати ваш блог."
+
+#: bws_menu/product_list.php:76
+msgid "Add beautiful galleries, albums & images to your WordPress website in a few clicks."
+msgstr "Додавайте мальовничі галереї, альбоми і зображення на ваш сайт WordPress всього в декілька кліків."
+
+#: bws_menu/product_list.php:69
+msgid "Get latest error log messages to diagnose website problems. Define and fix issues faster."
+msgstr "Отримуйте останні повідомлення з журналу помилок для діагностики проблем сайту. Швидше виявляйте і усувайте проблеми."
+
+#: bws_menu/product_list.php:59
+msgid "Add custom post types and taxonomies to WordPress website search results."
+msgstr "Додавайте користувацькі типи постів і таксономії у результати пошуку на вашому сайті WordPress."
+
+#: bws_menu/product_list.php:49
+msgid "Allow customers to reach you using secure contact form plugin any website must have."
+msgstr "Надайте можливість клієнтам здійснювати зв'язок з вами через безпечний плагін контактної форми, який повинен мати будь-який сайт."
+
+#: bws_menu/product_list.php:20
+msgid "SEO"
+msgstr "SEO "
+
+#: bws_menu/product_list.php:17
+msgid "Navigation"
+msgstr "Навігація"
+
+#: bws_menu/product_list.php:16
+msgid "Marketing"
+msgstr "Маркетинг"
+
+#: bws_menu/product_list.php:15
+msgid "eCommerce"
+msgstr "Комерція"
+
+#: bws_menu/product_list.php:14
+msgid "Content"
+msgstr "Контент"
+
+#: bws_menu/product_list.php:13
+msgid "Admin Tools"
+msgstr "Інструменти"
+
+#: bws_menu/bws_functions.php:135
+msgid "Need help?"
+msgstr "Потрібна допомога?"
+
+#: bws_menu/deprecated.php:233
+msgid "Congratulations! Pro version of the plugin is  installed and activated successfully."
+msgstr "Вітаємо! Pro версію плагіну успішно завантажено та активовано."
+
+#: bws_menu/deprecated.php:189
+msgid "Congratulations! The Pro license of the plugin is activated successfully."
+msgstr "Вітаємо! Pro версію плагіну успішно активовано."
+
+#: bws_menu/class-bws-settings.php:1224
+msgid "Start Your Free Trial"
+msgstr "Використовувати безкоштовну Trial версію"
+
+#: bws_menu/class-bws-settings.php:1210
+msgid "Watch the Video"
+msgstr "Дивитися відео"
+
+#: bws_menu/class-bws-settings.php:1205
+msgid "Read the Instruction"
+msgstr "Читати інструкцію"
+
+#: bws_menu/class-bws-settings.php:954
+msgid "Manage active licenses, download BWS products, and view your payment history using BestWebSoft Client Area."
+msgstr "Керуй активними ліцензіями, завантажуй BWS продукти, а також переглядай історію платежів за допомогою BestWebSoft Client Area."
+
+#: bws_menu/class-bws-settings.php:952
+msgid "Login to Client Area"
+msgstr "Зайти в Client Area"
+
+#: bws_menu/class-bws-settings.php:950
+msgid "Manage License Settings"
+msgstr "Управління налаштуваннями ліцензій"
+
+#: bws_menu/class-bws-settings.php:939
+msgid "If necessary, you can check if the license key is correct or reenter it in the field below."
+msgstr "При необхідності ви можете перевірити правильність вашого ліцензійного ключа або знову ввести його у полі, що знаходиться нижче."
+
+#: bws_menu/class-bws-settings.php:913
+msgid "Enter your license key to activate %s and get premium plugin features."
+msgstr "Введіть ліцензійний ключ для активації %s і отримання додаткових можливостей плагіна."
+
+#: bws_menu/class-bws-settings.php:848 includes/class-pdfprnt-settings.php:104
+msgid "License Key"
+msgstr "Ліцензійний ключ"
+
+#: bws_menu/class-bws-settings.php:714
+msgid "Import / Export"
+msgstr "Імпорт / Експорт"
+
+#: bws_menu/class-bws-settings.php:699
+msgid "This will restore plugin settings to defaults."
+msgstr "Відновити всі налаштування плагіна до налаштувань за замовчуванням."
+
+#: bws_menu/class-bws-settings.php:698
+msgid "Restore Settings"
+msgstr "Відновлення налаштувань"
+
+#: bws_menu/class-bws-settings.php:696
+msgid "Default Settings"
+msgstr "Налаштування за замовчуванням"
+
+#: bws_menu/class-bws-settings.php:691
+msgid "Enable to allow tracking plugin usage anonymously in order to make it better."
+msgstr "Включити, щоб дозволити анонімно відстежувати використання і зробити плагін краще."
+
+#: bws_menu/class-bws-settings.php:681
+msgid "Track Usage"
+msgstr "Збирати статистику"
+
+#: bws_menu/class-bws-settings.php:675
+msgid "Enable to display plugin Pro options."
+msgstr "Увімкніть для відображення Pro опцій плагіна."
+
+#: bws_menu/class-bws-settings.php:665
+msgid "Pro Options"
+msgstr "Pro опції"
+
+#: bws_menu/class-bws-settings.php:654 bws_menu/class-bws-settings.php:730
+msgid "It is prohibited to view %1$s settings on this site in the %2$s network settings."
+msgstr "Мережевими налаштуваннями %1$s забороняється дивитися налаштування %2$s на цьому сайті."
+
+#: bws_menu/class-bws-settings.php:649 bws_menu/class-bws-settings.php:725
+msgid "It is prohibited to change %1$s settings on this site in the %2$s network settings."
+msgstr "Мережевими налаштуваннями %1$s забороняється змінювати налаштування %2$s на цьому сайті."
+
+#: bws_menu/class-bws-settings.php:638
+msgid "Miscellaneous Settings"
+msgstr "Інші налаштування"
+
+#: bws_menu/class-bws-settings.php:595
+msgid "Activate custom %s code."
+msgstr "Активувати користувацький %s код."
+
+#: bws_menu/class-bws-settings.php:569
+msgid "These code will be added to the header on all pages of your site."
+msgstr "Цей код буде додано в заголовок на всіх сторінках вашого сайту."
+
+#: bws_menu/class-bws-settings.php:538 includes/class-pdfprnt-settings.php:103
+msgid "Custom Code"
+msgstr "Користувацький код"
+
+#: bws_menu/class-bws-settings.php:226
+msgid "Version"
+msgstr "Версія"
+
+#: bws_menu/class-bws-settings.php:222 includes/pro_banners.php:656
+msgid "Status"
+msgstr "Статус"
+
+#: bws_menu/class-bws-settings.php:219
+msgid "License"
+msgstr "Ліцензія"
+
+#: bws_menu/class-bws-settings.php:213
+msgid "Active"
+msgstr "Активна"
+
+#: bws_menu/class-bws-settings.php:211
+msgid "Renew Now"
+msgstr "Відновити зараз"
+
+#: bws_menu/class-bws-settings.php:211
+msgid "Expired on %s"
+msgstr "Витікає %s"
+
+#: bws_menu/class-bws-settings.php:205
+msgid "%s day(-s) left"
+msgstr "%s днів залишилося"
+
+#: bws_menu/class-bws-settings.php:202
+msgid "Expired"
+msgstr "Закінчилась"
+
+#: bws_menu/class-bws-settings.php:194
+msgid "Inactive"
+msgstr "Неактивна"
+
+#: bws_menu/class-bws-settings.php:179
+msgid "Information"
+msgstr "Інформація"
+
+#: bws_menu/bws_menu.php:258
+msgid "WP DB version"
+msgstr "Версія бази даних WordPress"
+
+#: bws_menu/bws_menu.php:256
+msgid "Database"
+msgstr "База даних"
+
+#: bws_menu/bws_menu.php:237
+msgid "Server Environment"
+msgstr "Системне оточення сервера"
+
+#: bws_menu/bws_menu.php:233 bws_menu/bws_menu.php:278
+#: bws_menu/bws_menu.php:281
+msgid "by %s"
+msgstr "%s"
+
+#: bws_menu/bws_menu.php:232
+msgid "WP Memory Limit"
+msgstr "Ліміт пам’яті WordPress"
+
+#: bws_menu/bws_menu.php:231
+msgid "WP Multisite"
+msgstr "Мультисайт"
+
+#: bws_menu/bws_menu.php:230
+msgid "WP Version"
+msgstr "Версія WordPress"
+
+#: bws_menu/bws_menu.php:229
+msgid "Website URL"
+msgstr "Адреса сайту"
+
+#: bws_menu/bws_menu.php:226
+msgid "WordPress Environment"
+msgstr "Системне оточення WordPress"
+
+#: bws_menu/bws_menu.php:173
+msgid "Congratulations! Pro Membership license is activated successfully."
+msgstr "Вітаємо! Pro Membership ліцензія успішно активована."
+
+#: bws_menu/bws_functions.php:1124
+msgid "Are you sure you want to restore default settings?"
+msgstr "Ви впевнені, що хочете скинути налаштування плагіну до стандартних?"
+
+#: bws_menu/bws_functions.php:693
+msgid "You can always look at premium options by checking the \"Pro Options\" in the \"Misc\" tab."
+msgstr "Ви завжди можете подивитися на преміум опції, натиснувши на кнопку \"Pro опції\" на вкладці \"Різне\"."
+
+#: bws_menu/bws_functions.php:591
+msgid "Thank you for choosing %s plugin!"
+msgstr "Дякую за вибір плагіна %s!"
+
+#: bws_menu/bws_functions.php:282
+msgid "Your license key for %1$s expires on %2$s and you won't be granted TOP-PRIORITY SUPPORT or UPDATES."
+msgstr "Ваш ліцензійний ключ для %1$sвитікає %2$sта ви більше не будете отримувати першочергову технічну підтримку та оновлення."
+
+#: bws_menu/bws_functions.php:395
+msgid "This function(-s) will be removed over time. Please update the product(-s)."
+msgstr "Ці функції буде видалено через деякий час. Будь ласка, поновіть продукт."
+
+#: bws_menu/bws_functions.php:377
+msgid "Deprecated function(-s) is used on the site here:"
+msgstr "Застарілі функціі використовується на сайті тут:"
+
+#: bws_menu/bws_functions.php:318
+msgid "Thank you for installing %s plugin!"
+msgstr "Дякуємо, що встановили %s плагін!"
+
+#: bws_menu/bws_functions.php:139
+msgid "Want to support the plugin?"
+msgstr "Хочете підтримати плагін?"
+
+#: bws_menu/bws_functions.php:126
+msgid "Rate it"
+msgstr "Оцінити"
+
+#: bws_menu/bws_functions.php:124
+msgid "Like the plugin?"
+msgstr "Сподобався плагін?"
+
+#. Plugin URI of the plugin
+#: pdf-print.php
+msgid "https://bestwebsoft.com/products/wordpress/plugins/pdf-print/"
+msgstr "https://bestwebsoft.com/products/wordpress/plugins/pdf-print/"
+
+#: includes/class-pdfprnt-buttons-widget.php:147
+msgid "Display Print Button"
+msgstr "Відображати кнопку Print"
+
+#: includes/class-pdfprnt-buttons-widget.php:143
+msgid "Display PDF Button"
+msgstr "Відображати кнопку PDF"
+
+#: includes/class-pdfprnt-buttons-widget.php:14
+msgid "Show PDF & Print Buttons on your site"
+msgstr "Додайте кнопки PDF & Print до вашого сайту"
+
+#: includes/class-pdfprnt-buttons-widget.php:14
+msgid "PDF & Print Buttons"
+msgstr "Кнопки PDF & Print"
+
+#: includes/class-pdfprnt-buttons-widget.php:77 pdf-print.php:592
+msgid "Print Content"
+msgstr "Друкувати контент"
+
+#: includes/class-pdfprnt-buttons-widget.php:58 pdf-print.php:592
+msgid "View PDF"
+msgstr "Перегляд у PDF"
+
+#: includes/class-pdfprnt-settings.php:130 pdf-print.php:537
+msgid "Print"
+msgstr "Print"
+
+#: includes/class-pdfprnt-settings.php:129 pdf-print.php:532
+msgid "PDF"
+msgstr "PDF"
+
+#: pdf-print.php:528
+msgid "Add PDF & Print Buttons to your page or post"
+msgstr "Додайте кнопки PDF & Print до вашого сайту"
+
+#: includes/class-pdfprnt-settings.php:168
+msgid "Bottom"
+msgstr "Знизу"
+
+#: includes/class-pdfprnt-settings.php:167
+msgid "Top"
+msgstr "Зверху"
+
+#: includes/class-pdfprnt-settings.php:170
+msgid "Right"
+msgstr "Праворуч"
+
+#: includes/class-pdfprnt-settings.php:169
+msgid "Left"
+msgstr "Ліворуч"
+
+#: includes/class-pdfprnt-settings.php:163 includes/pro_banners.php:307
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: includes/pro_banners.php:530
+msgid "Enter Title"
+msgstr "Введіть назву"
+
+#: includes/pro_banners.php:215
+msgid "Image"
+msgstr "Зображення"
+
+#: includes/pro_banners.php:211
+msgid "Text"
+msgstr "Текст"
+
+#: includes/class-pdfprnt-settings.php:162 includes/pro_banners.php:210
+msgid "None"
+msgstr "Не використовувати"
+
+#: bws_menu/bws_menu.php:674
+msgid "Not installed"
+msgstr "Не встановлен"
+
+#. Description of the plugin
+#: pdf-print.php bws_menu/product_list.php:166
+msgid "Generate PDF files and print WordPress posts/pages. Customize document header/footer styles and appearance."
+msgstr "Створюйте PDF-файли і друкуйте пости/сторінки сайту WordPress. Налаштовуйте стилі хедера/футера документа і його зовнішній вигляд."
+
+#: bws_menu/deactivation-form.php:88
+msgid "Other"
+msgstr "Інше"
+
+#: bws_menu/product_list.php:19
+msgid "Security"
+msgstr "Безпека"
+
+#: bws_menu/bws_menu.php:823
+msgid "Browse More WordPress Themes"
+msgstr "Огляд WordPress тем"
+
+#: bws_menu/bws_menu.php:749
+msgid "Nothing found. Try another criteria."
+msgstr "Нічого не знайдено. Спробуйте інші критерії."
+
+#: bws_menu/bws_menu.php:736
+msgid "Install this plugin"
+msgstr "Встановити плагін"
+
+#: bws_menu/bws_functions.php:140 bws_menu/bws_menu.php:708
+msgid "Donate"
+msgstr "Пожертвувати"
+
+#: bws_menu/bws_menu.php:702 bws_menu/class-bws-settings.php:207
+#: bws_menu/class-bws-settings.php:1220 includes/pro_banners.php:33
+#: pdf-print.php:50 pdf-print.php:392
+msgid "Upgrade to Pro"
+msgstr "Оновити до Pro"
+
+#: bws_menu/bws_menu.php:681
+msgid "Update to v %s"
+msgstr "Оновити до версії %s"
+
+#: bws_menu/bws_menu.php:678
+msgid "Renew to get updates"
+msgstr "Продовжити для поновлення"
+
+#: bws_menu/bws_menu.php:578 bws_menu/bws_menu.php:754
+#: includes/class-pdfprnt-settings.php:698 pdf-print.php:1385
+#: pdf-print.php:1516
+msgid "Category"
+msgstr "Категорія"
+
+#: bws_menu/bws_menu.php:575
+msgid "Filter results"
+msgstr "Фільтр результатів"
+
+#: bws_menu/bws_menu.php:568
+msgid "Not Installed"
+msgstr "Не встановлені"
+
+#: bws_menu/bws_menu.php:534
+msgid "Return to BestWebSoft Panel"
+msgstr "Назад до BestWebSoft Panel"
+
+#: bws_menu/bws_menu.php:483
+msgid "Plugin <strong>activated</strong>."
+msgstr "Плагін <strong>активовано</strong>."
+
+#: bws_menu/bws_menu.php:478
+msgid "Plugin could not be activated because it triggered a <strong>fatal error</strong>."
+msgstr "Плагін не вдалося активувати, бо він спричинив <strong>критичну помилку</strong>."
+
+#: bws_menu/bws_menu.php:476
+msgid "The plugin generated %d characters of <strong>unexpected output</strong> during activation. If you notice &#8220;headers already sent&#8221; messages, problems with syndication feeds or other issues, try deactivating or removing this plugin."
+msgstr "Цей плагін згенерував стільки символів <strong>неочікуваного виводу</strong> під час активації: %d. Якщо ви помітите повідомлення &#8220;заголовки вже надіслані&#8221;, проблеми з каналами чи інші неполадки, спробуйте вимкнути чи видалити цей плагін."
+
+#: bws_menu/bws_menu.php:471
+msgid "Upload Plugin"
+msgstr "Завантажити плагін"
+
+#: bws_menu/bws_menu.php:417
+msgid "Subscribe to Pro Membership"
+msgstr "Підписатися на Pro Membership"
+
+#: bws_menu/bws_menu.php:436
+msgid "Enter your license key"
+msgstr "Ваш ліцензійний ключ"
+
+#: bws_menu/bws_menu.php:415
+msgid "Get Access to %s+ Premium Plugins"
+msgstr "Отримати доступ до %s+ преміум плагинам"
+
+#: bws_menu/bws_menu.php:406
+msgid "Manage purchased licenses & subscriptions"
+msgstr "Управління придбаними ліцензіями і підписками"
+
+#: bws_menu/bws_menu.php:191
+msgid "Please enter your license key."
+msgstr "Будь ласка, введіть ваш ліцензійний ключ."
+
+#: bws_menu/bws_menu.php:156
+msgid "Log in"
+msgstr "Увійти"
+
+#: bws_menu/bws_menu.php:156
+msgid "This license key is bound to another site. Change it via personal Client Area."
+msgstr "Цей ліцензійний ключ прив'язано до іншого сайту. Змініть це в Client Area."
+
+#: bws_menu/class-bws-settings.php:565
+msgid "This PHP code will be hooked to the %s Action and will be printed on front end only."
+msgstr "Цей PHP код буде прикріплений до %s action і буде додано лише у фронтенді."
+
+#: bws_menu/bws_functions.php:892
+msgid "Add BWS Shortcode"
+msgstr "Додати BWS шорткод"
+
+#: bws_menu/deprecated.php:162 bws_menu/deprecated.php:257
+msgid "(your username is the email address specified during the purchase)."
+msgstr "(ваше ім'я користувача - це емейл, який ви вказували при купівлі)"
+
+#: bws_menu/deprecated.php:160 bws_menu/deprecated.php:255
+msgid "License key can be found in the"
+msgstr "Ліцензійний ключ можна знайти в"
+
+#: bws_menu/deprecated.php:253
+msgid "version of the plugin."
+msgstr "версія плагіна."
+
+#: bws_menu/deprecated.php:251
+msgid "Enter your license key to install and activate"
+msgstr "Введіть ліцензійний ключ для установки і активації"
+
+#: bws_menu/bws_functions.php:346
+msgid "Less Details"
+msgstr "Сховати Деталі"
+
+#: bws_menu/bws_functions.php:345
+msgid "More Details"
+msgstr "Деталі"
+
+#: bws_menu/bws_functions.php:343
+msgid "Thank you for installing plugins by BestWebSoft!"
+msgstr "Дякуємо, що встановили плагіни від BestWebSoft!"
+
+#: bws_menu/deprecated.php:31
+msgid "System Status"
+msgstr "Системна інформація"
+
+#: includes/pro_banners.php:144
+msgid "Landscape"
+msgstr "Альбомна"
+
+#: includes/pro_banners.php:143
+msgid "Portrait"
+msgstr "Портретна"
+
+#: includes/pro_banners.php:127
+msgid "Layout"
+msgstr "Орієнтація"
+
+#: includes/pro_banners.php:202
+msgid "Additional information"
+msgstr "Додаткова інформація"
+
+#: includes/pro_banners.php:201
+msgid "Tags"
+msgstr "Ключові слова"
+
+#: includes/pro_banners.php:200
+msgid "Categories"
+msgstr "Категорії"
+
+#: includes/pro_banners.php:195
+msgid "SKU"
+msgstr "Артикул"
+
+#: includes/pro_banners.php:198
+msgid "Stock"
+msgstr "Наявність"
+
+#: includes/pro_banners.php:194
+msgid "Price"
+msgstr "Ціна"
+
+#: includes/pro_banners.php:197
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: bws_menu/class-bws-settings.php:606
+msgid "Learn more about %s"
+msgstr "Дізнатись більше про %s"
+
+#: bws_menu/class-bws-settings.php:581
+msgid "Browsing"
+msgstr "Огляд"
+
+#: bws_menu/class-bws-settings.php:561
+msgid "These styles will be added to the header on all pages of your site."
+msgstr "Ці стилі будуть додані в заголовок на всіх сторінках вашого сайту."
+
+#: bws_menu/class-bws-settings.php:555
+msgid "You do not have sufficient permissions to edit plugins for this site."
+msgstr "У вас недостатньо повноважень для редагування плагінів цього сайту."
+
+#: bws_menu/bws_functions.php:593
+msgid "Suggest a Feature"
+msgstr "Запропонувати функціонал"
+
+#: bws_menu/bws_functions.php:592
+msgid "If you have a feature, suggestion or idea you'd like to see in the plugin, we'd love to hear about it!"
+msgstr "Якщо у вас є пропозиції по додаванню нового або поліпшення поточного функціоналу плагіна, будь ласка, надсилайте їх нам! Ми завжди відкриті для нових ідей!"
+
+#. Author URI of the plugin
+#: pdf-print.php
+msgid "https://bestwebsoft.com/"
+msgstr "https://bestwebsoft.com/"
+
+#. Author of the plugin
+#: pdf-print.php
+msgid "BestWebSoft"
+msgstr "BestWebSoft"
+
+#. Plugin Name of the plugin
+#: pdf-print.php
+msgid "PDF & Print by BestWebSoft"
+msgstr "PDF & Print by BestWebSoft"
+
+#: pdf-print.php:1719 pdf-print.php:1763
+msgid "Can not extract files from zip-archive."
+msgstr "Неможливо витягти файли із zip-архіву."
+
+#: pdf-print.php:1716 pdf-print.php:1760
+msgid "Some errors occurred during loading files."
+msgstr "Під час завантаження файлів виникли деякі помилки."
+
+#: pdf-print.php:1681
+msgid "Cannot load files in to \"uploads\" folder. Check your permissions"
+msgstr "Неможливо завантажити файли до папки \"uploads\". Перевірте Ваші права"
+
+#: pdf-print.php:1676
+msgid "Check your internet connection"
+msgstr "Перевірте Ваше інтернет-з’єднання"
+
+#: pdf-print.php:1096
+msgid "Loading of fonts. It might take a several minutes."
+msgstr "Завантаження шрифтів. Це може зайняти декілька хвилин."
+
+#: bws_menu/bws_menu.php:405 pdf-print.php:1071
+msgid "Support"
+msgstr "Підтримка"
+
+#: includes/class-pdfprnt-settings.php:697
+msgid "Featured image"
+msgstr "Зображення запису"
+
+#: includes/class-pdfprnt-settings.php:762
+msgid "ZipArchive Class is not installed on your server. It is impossible to load additional fonts."
+msgstr "Клас ZipArchive не встановлений на вашому сервері. Неможливо завантажити додаткові шрифти."
+
+#: includes/class-pdfprnt-settings.php:762
+#: includes/class-pdfprnt-settings.php:926
+msgid "WARNING"
+msgstr "Увага"
+
+#: includes/class-pdfprnt-settings.php:756
+msgid "If you have some problems with your internet connection, please, try to load additional fonts manually. For more info, please see"
+msgstr "Якщо Ви маєте деякі проблеми із інтернет-з’єднанням, будь-ласка, спробуйте завантажити шрифти вручну. Більш детальну інформацію дивіться"
+
+#: includes/class-pdfprnt-settings.php:751
+msgid "Additional fonts were loaded successfully"
+msgstr "Додаткові шрифти були успішно завантажені"
+
+#: includes/class-pdfprnt-settings.php:744
+msgid "Load Fonts"
+msgstr "Завантажити шрифти"
+
+#: includes/class-pdfprnt-settings.php:742
+msgid "Reload Fonts"
+msgstr "Перезавантажити шрифти"
+
+#: includes/class-pdfprnt-settings.php:236
+msgid "Changing File Permissions"
+msgstr "Зміна прав на файли"
+
+#: includes/class-pdfprnt-settings.php:235
+msgid "Please check and change permissions for your plugins folder (for folders - 755, for files - 644). For more info, please see %1$s and %2$s."
+msgstr "Будь-ласка, перевірте права на вашу папку із плагінами (для папок - 755, для файлів - 644). Більше детальну інформацію дивіться %1$s та %2$s."
+
+#: bws_menu/class-bws-settings.php:373
+msgid "All plugin settings were restored."
+msgstr "Усі налаштування плагіну відновлені."
+
+#: includes/class-pdfprnt-settings.php:434
+msgid "Settings saved."
+msgstr "Налаштування збережені."
+
+#: includes/class-pdfprnt-settings.php:413
+msgid "You have entered too much text in the \"edit styles\" field."
+msgstr "Ви ввели забагато тексту в поле редагування стилів."
+
+#: includes/class-pdfprnt-settings.php:158
+msgid "Top & Bottom Right"
+msgstr "Зверху і знизу праворуч"
+
+#: includes/class-pdfprnt-settings.php:157
+msgid "Top & Bottom Left"
+msgstr "Зверху і знизу ліворуч"
+
+#: includes/class-pdfprnt-settings.php:156
+msgid "Bottom Right"
+msgstr "Знизу праворуч"
+
+#: includes/class-pdfprnt-settings.php:155
+msgid "Bottom Left"
+msgstr "Знизу ліворуч"
+
+#: includes/class-pdfprnt-settings.php:154
+msgid "Top Right"
+msgstr "Зверху праворуч"
+
+#: includes/class-pdfprnt-settings.php:153
+msgid "Top Left"
+msgstr "Зверху ліворуч"
+
+#: includes/class-pdfprnt-settings.php:444 pdf-print.php:44 pdf-print.php:45
+#: pdf-print.php:322
+msgid "PDF & Print Settings"
+msgstr "Налаштування PDF & Print"
+
+#: includes/class-pdfprnt-settings.php:693
+msgid "Date"
+msgstr "Дата"
+
+#: includes/class-pdfprnt-buttons-widget.php:138
+#: includes/class-pdfprnt-settings.php:688 includes/pro_banners.php:396
+#: includes/pro_banners.php:486
+msgid "Title"
+msgstr "Назва"
+
+#: includes/pro_banners.php:379 includes/pro_banners.php:510
+msgid "items"
+msgstr "елементи"
+
+#: includes/pro_banners.php:376 includes/pro_banners.php:507
+msgid "Apply"
+msgstr "Застосувати"
+
+#: includes/pro_banners.php:373 includes/pro_banners.php:504
+msgid "Bulk Actions"
+msgstr "Масові дії"
+
+#: includes/pro_banners.php:366 includes/pro_banners.php:368
+msgid "search"
+msgstr "пошук"
+
+#: includes/pro_banners.php:363 includes/pro_banners.php:374
+#: includes/pro_banners.php:417 includes/pro_banners.php:440
+#: includes/pro_banners.php:463 includes/pro_banners.php:505
+msgid "Trash"
+msgstr "Кошик"
+
+#: includes/pro_banners.php:260
+msgid "Choose the necessary post types (or single pages) where PDF & Print buttons will be displayed"
+msgstr "Виберіть типи записів чи сторінки, де будуть відображатися кнопки PDF & Print"
+
+#: includes/pro_banners.php:98
+msgid "File name cannot contain more than 195 symbols. The file name can include Latin letters, numbers and symbols."
+msgstr "Им’я файлу може складатись не більш ніж з 195 символів. Ви можете використовувати латинські літери, цифри, а також символи \"-\" , \"_\" ."
+
+#: includes/pro_banners.php:52 includes/pro_banners.php:95
+msgid "Custom"
+msgstr "Користувацьке"
+
+#: includes/pro_banners.php:24
+msgid "This options is available in Pro version of the plugin"
+msgstr "Ці опції доступні в Pro версії плагина"
+
+#: bws_menu/bws_menu.php:851
+msgid "Send to custom email &#187;"
+msgstr "Відправити на електронну адресу &#187;"
+
+#: bws_menu/bws_menu.php:844
+msgid "Send to support"
+msgstr "Відправити службі тех. підтримки"
+
+#: bws_menu/bws_menu.php:269
+msgid "Inactive Plugins"
+msgstr "Не активні плагіни"
+
+#: bws_menu/bws_menu.php:264
+msgid "Active Plugins"
+msgstr "Активні плагіни"
+
+#: bws_menu/bws_menu.php:811
+msgid "Already Installed"
+msgstr "Уже встановлено %s"
+
+#: bws_menu/bws_menu.php:802
+msgid "By %s"
+msgstr "За %s"
+
+#: bws_menu/bws_menu.php:736
+msgid "Install Now"
+msgstr "Встановити"
+
+#: bws_menu/bws_menu.php:722 bws_menu/bws_menu.php:731
+msgid "Activate this plugin"
+msgstr "Активувати плагін"
+
+#: bws_menu/bws_functions.php:321 bws_menu/bws_functions.php:354
+#: bws_menu/bws_menu.php:714 bws_menu/bws_menu.php:716
+#: includes/class-pdfprnt-settings.php:92 pdf-print.php:45 pdf-print.php:1048
+#: pdf-print.php:1068
+msgid "Settings"
+msgstr "Налаштування"
+
+#: bws_menu/product_list.php:18
+msgid "Recommended"
+msgstr "Рекомендовані "
+
+#: bws_menu/bws_menu.php:559 bws_menu/bws_menu.php:813
+msgid "Installed"
+msgstr "Встановлені"
+
+#: bws_menu/bws_menu.php:550 bws_menu/bws_menu.php:588
+#: bws_menu/bws_menu.php:764 includes/class-pdfprnt-settings.php:567
+#: includes/pro_banners.php:362
+msgid "All"
+msgstr "Всіх"
+
+#: bws_menu/bws_menu.php:355 bws_menu/bws_menu.php:387
+#: bws_menu/bws_menu.php:790 bws_menu/deprecated.php:30
+msgid "Themes"
+msgstr "Теми"
+
+#: bws_menu/bws_menu.php:345 bws_menu/bws_menu.php:376
+#: bws_menu/bws_menu.php:470 bws_menu/deprecated.php:29
+msgid "Plugins"
+msgstr "Плагіни"
+
+#: bws_menu/bws_menu.php:364 bws_menu/bws_menu.php:398
+#: bws_menu/bws_menu.php:826
+msgid "System status"
+msgstr "Системна інформація"
+
+#: bws_menu/bws_menu.php:530
+msgid "Client Area"
+msgstr "Client Area"
+
+#: bws_menu/class-bws-settings.php:1203
+msgid "Need Help?"
+msgstr "Потрібна допомога?"
+
+#: bws_menu/bws_menu.php:320
+msgid "Sorry, email message could not be delivered."
+msgstr "Вибачте, ваше емейл не може бути доставлено"
+
+#: bws_menu/bws_menu.php:296
+msgid "Thank you for contacting us."
+msgstr "Дякуємо, що звернулись до нас."
+
+#: bws_menu/bws_menu.php:292
+msgid "Email with system info is sent to %s."
+msgstr "Емейл з системною інформацією надіслано на %s."
+
+#: bws_menu/bws_menu.php:290
+msgid "Please enter a valid email address."
+msgstr "Будь ласка, введіть коректний емейл."
+
+#: bws_menu/bws_menu.php:233
+msgid "Active Theme"
+msgstr "Активна тема"
+
+#: bws_menu/bws_menu.php:228
+msgid "Home URL"
+msgstr "Адреса домашньої сторінки"
+
+#: bws_menu/bws_menu.php:250
+msgid "PHP XML support"
+msgstr "Підтримка PHP XML"
+
+#: bws_menu/bws_menu.php:249
+msgid "PHP IPTC support"
+msgstr "Підтримка PHP IPTC"
+
+#: bws_menu/bws_menu.php:248
+msgid "PHP Exif support"
+msgstr "Підтримка PHP Exif"
+
+#: bws_menu/bws_menu.php:247
+msgid "PHP Max Script Execute Time"
+msgstr "Макс. час виконання сценарію"
+
+#: bws_menu/bws_menu.php:246
+msgid "PHP Max Post Size"
+msgstr "Макс. розмір посту"
+
+#: bws_menu/bws_menu.php:245
+msgid "PHP Max Upload Size"
+msgstr "Макс. розмір файлу, що завантажується"
+
+#: bws_menu/bws_menu.php:243
+msgid "PHP Memory Limit"
+msgstr "Ліміт пам’яті"
+
+#: bws_menu/bws_menu.php:242
+msgid "PHP Allow URL fopen"
+msgstr "Дозволити PHP URL fopen"
+
+#: bws_menu/bws_menu.php:241
+msgid "PHP Version"
+msgstr "Версія PHP"
+
+#: bws_menu/bws_menu.php:260
+msgid "SQL Mode"
+msgstr "Режим SQL"
+
+#: bws_menu/bws_menu.php:259
+msgid "MySQL version"
+msgstr "Версія MYSQL"
+
+#: bws_menu/bws_menu.php:244
+msgid "Memory Usage"
+msgstr "Використання пам'яті"
+
+#: bws_menu/bws_menu.php:240
+msgid "Server"
+msgstr "Тип серверу"
+
+#: bws_menu/bws_menu.php:239
+msgid "Operating System"
+msgstr "Операційна система"
+
+#: bws_menu/bws_menu.php:213 bws_menu/bws_menu.php:214
+#: bws_menu/bws_menu.php:215 bws_menu/bws_menu.php:219
+msgid "No"
+msgstr "Ні"
+
+#: bws_menu/bws_menu.php:213 bws_menu/bws_menu.php:214
+#: bws_menu/bws_menu.php:215 bws_menu/bws_menu.php:219
+msgid "Yes"
+msgstr "Так"
+
+#: bws_menu/bws_menu.php:207 bws_menu/bws_menu.php:208
+#: bws_menu/bws_menu.php:209 bws_menu/bws_menu.php:210
+#: bws_menu/bws_menu.php:211 bws_menu/bws_menu.php:212
+#: bws_menu/bws_menu.php:221
+msgid "N/A"
+msgstr "Невідомо"
+
+#: bws_menu/bws_menu.php:206
+msgid "Off"
+msgstr "Вимк."
+
+#: bws_menu/bws_menu.php:206
+msgid "On"
+msgstr "Увімк."
+
+#: bws_menu/bws_menu.php:203
+msgid "Not set"
+msgstr "Не задано"
+
+#: bws_menu/bws_functions.php:1275
+msgid "Submit a Request"
+msgstr "Надіслати запит"
+
+#: bws_menu/bws_functions.php:1274 bws_menu/bws_menu.php:520
+#: bws_menu/class-bws-settings.php:883
+msgid "Video Instructions"
+msgstr "Відео інструкції"
+
+#: bws_menu/bws_functions.php:1273 bws_menu/bws_menu.php:518
+#: bws_menu/class-bws-settings.php:881
+msgid "Documentation"
+msgstr "Документація"
+
+#: bws_menu/bws_functions.php:1272
+msgid "For more information:"
+msgstr "Для отримання додаткової інформації:"
+
+#: bws_menu/bws_functions.php:1266 includes/class-pdfprnt-settings.php:237
+#: includes/class-pdfprnt-settings.php:268
+#: includes/class-pdfprnt-settings.php:280
+#: includes/class-pdfprnt-settings.php:756 pdf-print.php:1070
+#: pdf-print.php:1101
+msgid "FAQ"
+msgstr "FAQ"
+
+#: bws_menu/bws_functions.php:136 bws_menu/bws_functions.php:1261
+#: bws_menu/class-bws-settings.php:1207
+msgid "Visit Help Center"
+msgstr "Перейти до Help Center"
+
+#: bws_menu/bws_functions.php:1211
+msgid "The shortcode will be inserted"
+msgstr "Буде вставлено шорткод"
+
+#: bws_menu/bws_functions.php:1201
+msgid "Shortcode settings"
+msgstr "Налаштування шорткоду"
+
+#: bws_menu/bws_functions.php:1192
+msgid "Plugin"
+msgstr "Плагін"
+
+#: bws_menu/bws_functions.php:1128
+msgid "No, go back to the settings page"
+msgstr "Ні, повернутись назад на сторінку налаштувань"
+
+#: bws_menu/bws_functions.php:1127
+msgid "Yes, restore all settings"
+msgstr "Так, скинути налаштування"
+
+#: bws_menu/deprecated.php:211
+msgid "Restore settings"
+msgstr "Скинути налаштування"
+
+#: bws_menu/deprecated.php:209
+msgid "Restore all plugin settings to defaults"
+msgstr "Скинути налаштування плагіну до стандартних"
+
+#: bws_menu/bws_functions.php:1031 includes/class-pdfprnt-settings.php:873
+#: includes/pro_banners.php:27
+msgid "Close"
+msgstr "Закрити"
+
+#: bws_menu/bws_functions.php:915
+msgid "Add BestWebSoft plugins' shortcodes using this button."
+msgstr "Додайте шорткоди BestWebSoft плагінів за допомогою цієї кнопки."
+
+#: bws_menu/bws_functions.php:915
+msgid "Add shortcode"
+msgstr "Додати шорткод"
+
+#: bws_menu/bws_functions.php:893
+msgid "Add BWS Plugins Shortcode"
+msgstr "Додати шорткод BWS плагіну"
+
+#: bws_menu/bws_functions.php:671 bws_menu/class-bws-settings.php:240
+#: bws_menu/class-bws-settings.php:268 includes/pro_banners.php:668
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: bws_menu/bws_functions.php:670
+msgid "The plugin's settings have been changed."
+msgstr "Налаштування плагіну змінено."
+
+#: bws_menu/bws_functions.php:670 bws_menu/class-bws-settings.php:649
+#: bws_menu/class-bws-settings.php:654 bws_menu/class-bws-settings.php:725
+#: bws_menu/class-bws-settings.php:730
+msgid "Notice"
+msgstr "Зауважте"
+
+#: bws_menu/bws_functions.php:253 bws_menu/bws_functions.php:278
+#: bws_menu/bws_functions.php:328 bws_menu/bws_functions.php:338
+#: bws_menu/bws_functions.php:596 bws_menu/bws_functions.php:629
+msgid "Close notice"
+msgstr "Закрити"
+
+#: bws_menu/bws_functions.php:324 bws_menu/bws_functions.php:356
+#: pdf-print.php:347 pdf-print.php:358
+msgid "Add New"
+msgstr "Додати нові"
+
+#: bws_menu/bws_functions.php:320
+msgid "Let's get started"
+msgstr "Розпочнемо"
+
+#: bws_menu/bws_functions.php:216
+msgid "The Pro Trial license will expire on"
+msgstr "Trial період Pro версії плагіну закінчується"
+
+#: bws_menu/bws_functions.php:213
+msgid "Notice: You are using the Pro Trial license of plugin."
+msgstr "Увага: Ви використовуєте тріал Pro версію плагіну."
+
+#: bws_menu/bws_functions.php:211
+msgid "Notice: You are using the Pro Trial license of %s plugin."
+msgstr "Увага: Ви використовуєте тріал Pro версію плагіну %s."
+
+#: bws_menu/bws_functions.php:191 bws_menu/bws_functions.php:282
+msgid "Learn more"
+msgstr "Дізнатись більше"
+
+#: bws_menu/bws_functions.php:191
+msgid "Your license has expired. To continue getting top-priority support and plugin updates, you should extend it."
+msgstr "Строк вашої ліцензії витік. Якщо ви хочете отримувати першочергову технічну підтримку та оновлювати плагін у майбутньому, вам слід подовжити ліцензію."
+
+#: bws_menu/bws_functions.php:189
+msgid "Notice: Your Pro Trial license has expired. To continue using the plugin, you should buy a Pro license"
+msgstr "Увага: Термін дії Pro Trial версії плагіну скінчився. Щоб продовжити користуватись плагіном, будь ласка, придбайте Pro ліцензію"
+
+#: bws_menu/bws_functions.php:170
+msgid "You can use one license of the Pro plugin for one domain only. Please check and edit your license or domain if necessary using your personal Client Area. We strongly recommend you to solve the problem within 24 hours, otherwise the Pro plugin will be deactivated."
+msgstr "Ви можете використовувати одну ліцензію Про-плагіну для одного домену. Будь ласка, переконайтесь, що інформацію щодо ліцензії і домену введено вірно, у вкладці Client Area. Ми настійливо рекомендуємо Вам вирішити це питання протягом 24 годин, інакше плагін буде деактивовано."
+
+#: bws_menu/bws_functions.php:170
+msgid "WARNING: Illegal use notification"
+msgstr "УВАГА: виявлено несанкціоноване використання плагіну"
+
+#: bws_menu/bws_menu.php:427 bws_menu/bws_menu.php:450
+#: bws_menu/class-bws-settings.php:937 bws_menu/deprecated.php:135
+msgid "Check license key"
+msgstr "Перевірте ліцензійний ключ"
+
+#: bws_menu/deprecated.php:131
+msgid "(your username is the email address specified during the purchase). If necessary, please submit \"Lost your password?\" request."
+msgstr "(ваше ім'я користувача - це емейл, який ви вказували при купівлі). При необхідності, будь ласка, відправте запит на відновлення вашого паролю."
+
+#: bws_menu/deprecated.php:131
+msgid "If necessary, you can check if the license key is correct or reenter it in the field below. You can find your license key on your personal page - Client Area - on our website"
+msgstr "При необхідності ви можете перевірити правильність вашого ліцензійного ключа або знову ввести його у полі, що знаходиться нижче. Ви можете знайти свій ліцензійний ключ на вашій персональній сторінці - Client area - на нашому сайті"
+
+#: bws_menu/bws_menu.php:170 bws_menu/class-bws-settings.php:1036
+msgid "Your license will expire on"
+msgstr "Ваша ліцензія закінчується"
+
+#: bws_menu/bws_menu.php:168 bws_menu/class-bws-settings.php:1032
+msgid "The license key is valid."
+msgstr "Ліцензійний ключ дійсний."
+
+#: bws_menu/class-bws-settings.php:1030
+msgid "The Pro Trial license key is valid."
+msgstr "Ключ тріал Pro версії вірний."
+
+#: bws_menu/class-bws-settings.php:1025
+msgid "Unfortunately, the Pro Trial licence was already installed to this domain. The Pro Trial license can be installed only once."
+msgstr "На жаль, Trial Pro версія плагіну уже встановлювалась на цей домен. Trial Pro версію можна встановлювати лише один раз."
+
+#: bws_menu/class-bws-settings.php:1023
+msgid "Unfortunately, you have exceeded the number of available tries."
+msgstr "На жаль, ви перевищили кількість допустимих спроб."
+
+#: bws_menu/class-bws-settings.php:1021
+msgid "This license key is valid, but Your license has expired. If you want to update our plugin in future, you should extend the license."
+msgstr "Даний ліцензійний ключ дійсний, але строк вашої ліцензії витік. Якщо ви хочете оновлювати наш плагін у майбутньому, вам слід подовжити ліцензію."
+
+#: bws_menu/class-bws-settings.php:1019 bws_menu/class-bws-settings.php:1135
+msgid "This license key is bound to another site."
+msgstr "Цей ліцензійний ключ прив'язано до іншого сайту."
+
+#: bws_menu/bws_menu.php:154 bws_menu/class-bws-settings.php:1017
+#: bws_menu/class-bws-settings.php:1133
+msgid "Wrong license key."
+msgstr "Неправильний ліцензійний ключ."
+
+#: bws_menu/bws_menu.php:158 bws_menu/bws_menu.php:425
+#: bws_menu/deprecated.php:174
+msgid "Unfortunately, you have exceeded the number of available tries per day."
+msgstr "На жаль, ви перевищили кількість допустимих спроб."
+
+#: bws_menu/deprecated.php:157
+msgid "After that, you can activate it by entering your license key."
+msgstr "Після цього ви зможете активувати його ввівши ліцензійний ключ."
+
+#: bws_menu/class-bws-settings.php:1043 bws_menu/deprecated.php:157
+msgid "In order to continue using the plugin it is necessary to buy a %s license."
+msgstr "Щоб продовжити користуватись плагіном, потрібно придбати %s ліцензію."
+
+#: bws_menu/bws_menu.php:448 bws_menu/bws_menu.php:722
+#: bws_menu/bws_menu.php:731 bws_menu/class-bws-settings.php:910
+#: bws_menu/deprecated.php:172 bws_menu/deprecated.php:180
+#: bws_menu/deprecated.php:270 bws_menu/deprecated.php:283
+msgid "Activate"
+msgstr "Активувати"
+
+#: bws_menu/class-bws-settings.php:920 bws_menu/deprecated.php:262
+msgid "Start Your Free %s-Day Trial Now"
+msgstr "Спробуйте %s-денну Trial версію безкоштовно"
+
+#: bws_menu/bws_functions.php:323 bws_menu/bws_menu.php:417
+#: bws_menu/class-bws-settings.php:920 bws_menu/class-bws-settings.php:1210
+#: bws_menu/class-bws-settings.php:1223 bws_menu/deprecated.php:262
+#: includes/pro_banners.php:581 includes/pro_banners.php:636
+msgid "or"
+msgstr "чи"
+
+#: bws_menu/deprecated.php:244
+msgid "Show Pro features"
+msgstr "Показати Pro опції"
+
+#: bws_menu/deprecated.php:191 bws_menu/deprecated.php:235
+msgid "the setting page"
+msgstr "сторінку установок"
+
+#: bws_menu/deprecated.php:191 bws_menu/deprecated.php:235
+msgid "Please, go to"
+msgstr "Будь ласка, перейдіть на"
+
+#: bws_menu/class-bws-settings.php:1188
+msgid "Please, enter Your license key"
+msgstr "Будь ласка, впишіть ваш ліцензійний ключ"
+
+#: bws_menu/bws_menu.php:180 bws_menu/class-bws-settings.php:1151
+msgid "Something went wrong. Try again later or upload the plugin manually. We are sorry for inconvenience."
+msgstr "Виникли певні проблеми. Спробуйте ще раз пізніше або завантажте плагін вручну. Просимо вибачення за незручності."
+
+#: bws_menu/bws_menu.php:162 bws_menu/class-bws-settings.php:1141
+msgid "Unfortunately, the Pro licence was already installed to this domain. The Pro Trial license can be installed only once."
+msgstr "На жаль, Pro ліцензія уже використовувалась на цьому домені.  Тріал Pro версії плагіну можна використати лише один раз."
+
+#: bws_menu/bws_menu.php:160
+msgid "Unfortunately, Your license has expired. To continue getting top-priority support and plugin updates, you should extend it in your %s"
+msgstr "На жаль, ваша ліцензія скінчилась. Для того, щоб і надалі отримувати першочергову техпідтримку і оновлення, будь ласка, продовжте ліцензію на  %s"
+
+#: bws_menu/class-bws-settings.php:916 bws_menu/class-bws-settings.php:1137
+#: bws_menu/deprecated.php:277
+msgid "Unfortunately, you have exceeded the number of available tries per day. Please, upload the plugin manually."
+msgstr "На жаль, ви перевищили кількість доступних спроб на день. Будь ласка, завантажте плагін вручну"
+
+#: bws_menu/bws_menu.php:147 bws_menu/class-bws-settings.php:1011
+#: bws_menu/class-bws-settings.php:1088 bws_menu/class-bws-settings.php:1127
+msgid "We are sorry for inconvenience."
+msgstr "Просимо вибачення за незручності."
+
+#: bws_menu/bws_menu.php:147 bws_menu/class-bws-settings.php:1011
+#: bws_menu/class-bws-settings.php:1088 bws_menu/class-bws-settings.php:1127
+msgid "Something went wrong. Please try again later. If the error appears again, please contact us"
+msgstr "Щось не так, спробуйте пізніше. Якщо помилка повториться, будь ласка, повідомте нам"
+
+#: bws_menu/bws_menu.php:125 bws_menu/class-bws-settings.php:985
+msgid "Wrong license key"
+msgstr "Невірний ключ ліцензії"
+
+#: bws_menu/bws_functions.php:170 bws_menu/bws_functions.php:262
+#: bws_menu/bws_menu.php:805 bws_menu/class-bws-settings.php:194
+#: includes/class-pdfprnt-settings.php:465 includes/pro_banners.php:582
+#: includes/pro_banners.php:637
+msgid "Learn More"
+msgstr "Дізнатись більше"
+
+#: bws_menu/bws_functions.php:259
+msgid "Extend standard plugin functionality with new great options."
+msgstr "Розширює можливості стандартного функціоналу плагіна."
+
+#: bws_menu/bws_functions.php:258
+msgid "version!"
+msgstr "версії!"
+
+#: bws_menu/bws_functions.php:258
+msgid "to"
+msgstr "до"
+
+#: bws_menu/bws_functions.php:258
+msgid "It’s time to upgrade your"
+msgstr "Настав час модернізувати Ваш"
+
+#: bws_menu/bws_functions.php:300
+msgid "or higher! We do not guarantee that our plugin will work correctly. Please upgrade to WordPress latest version."
+msgstr "чи вище! Ми не гарантуємо, що наш плагін буде працювати правильно. Будь ласка, оновіть WordPress до останньої версії."
+
+#: bws_menu/bws_functions.php:100
+msgid "Plugins page"
+msgstr "Сторінку Плагінів"
+
+#: bws_menu/bws_functions.php:98
+msgid "Back to the WordPress"
+msgstr "Повернутися на WordPress на"
+
+#: bws_menu/bws_functions.php:97
+msgid "or higher, that is why it has been deactivated! Please upgrade WordPress and try again."
+msgstr "чи вище, тому його було деактивовано! Будь ласка оновіть WordPress та спробуйте ще раз."
+
+#: bws_menu/bws_functions.php:95 bws_menu/bws_functions.php:298
+msgid "requires"
+msgstr "потребує"
