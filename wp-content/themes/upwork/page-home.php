@@ -308,15 +308,15 @@ function compare_positions($a, $b)
     </div>
 <?php endif; ?>
 <?php
-require('fpdf/fpdf.php');
-$pdf = new FPDF();
-$pdf->AddPage();
-$pdf->SetFont('Arial', 'B', 16);
-// $pdf->Cell(0,10,'Hello World!');
-$pdf->Cell(0, 10, 'Hello World!');
-//var_dump($pdf);
-$upload_dir = wp_upload_dir();
-$pdf_path = $upload_dir['path'] . '/abc.pdf';
-$pdf->Output('F', $pdf_path);
+//require('fpdf/fpdf.php');
+//$pdf = new FPDF();
+//$pdf->AddPage();
+//$pdf->SetFont('Arial', 'B', 16);
+//// $pdf->Cell(0,10,'Hello World!');
+//$pdf->Cell(0, 10, 'Hello World!');
+////var_dump($pdf);
+//$upload_dir = wp_upload_dir();
+//$pdf_path = $upload_dir['path'] . '/abc.pdf';
+//$pdf->Output('F', $pdf_path);
 ?>
 <?php get_footer(); ?>
