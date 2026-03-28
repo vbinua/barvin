@@ -9036,3 +9036,7 @@ input:-moz-placeholder {
 .content__download:hover {
     text-decoration: underline;
 }
+
+.page-template-page-home .header__profile_login{
+    display: none!important;
+}

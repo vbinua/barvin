@@ -16,9 +16,13 @@ let freeFilesProcessed = 0;
 
 function createColoring() {
     const previewAreaEl = document.querySelector('.uploader__preview_area');
+
+    if (!previewAreaEl) return;
+
     const uploaderButton = document.querySelector('.uploader__button');
     const quizFooterEdit = document.querySelector('.quiz__m-footer-edit');
     const dropArea = document.querySelector('.uploader__drop_area');
+
 
     const uploader = new plupload.Uploader({
         browse_button: previewAreaEl, drop_element: previewAreaEl, multi_selection: true, filters: {

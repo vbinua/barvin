@@ -75,7 +75,7 @@
         const button = $(this);
         const buttonLoader = $(this).find('.authorization__button-loader');
         const guestId = localStorage.getItem('guest_id');
-        const termId = document.querySelector('.quiz-edit').getAttribute('data-term-id') ?? '';
+        const termId = document.querySelector('.quiz-edit')?.getAttribute('data-term-id') ?? '';
         const postId = getUrlParam('edit-book');
 
         button.attr('disabled', true);
@@ -166,7 +166,7 @@
         const button = $(this)
         const buttonLoader = $(this).find('.authorization__button-loader');
         const guestId = localStorage.getItem('guest_id');
-        const termId = document.querySelector('.quiz-edit').getAttribute('data-term-id') ?? '';
+        const termId = document.querySelector('.quiz-edit')?.getAttribute('data-term-id') ?? '';
         const postId = getUrlParam('edit-book');
 
         let name = $('#first_name').val();
