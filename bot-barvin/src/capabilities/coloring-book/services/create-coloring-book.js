@@ -10,8 +10,6 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 export async function createColoringBook(image, clientId, orderId, domain, quizSlug, postId) {
     if (process.env.MODE === 'dev') {
         try {
-            console.log(`[DEV MODE] Using mock image for task ${postId}...`);
-
             const filePath = path.resolve(process.cwd(), 'g1.jpg');
 
             const buffer = fs.readFileSync(filePath);
