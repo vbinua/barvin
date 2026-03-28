@@ -8428,6 +8428,7 @@ a {
     position: relative;
     margin-top: 17px;
     display: none;
+    max-width: 350px;
 }
 
 .pay-popup__content form input {

@@ -68,10 +68,16 @@ function process_stripe_payment()
 
     } catch (\Stripe\Exception\CardException $e) {
         wp_send_json_error(['message' => $e->getError()->message]);
+
     } catch (Exception $e) {
+        $raw_error_message = $e->getMessage();
+
+        $safe_error_message = preg_replace('/(sk_live_|sk_test_|rk_live_|rk_test_)[a-zA-Z0-9]+/', '$1***[СКРЫТО]***', $raw_error_message);
+
         if (function_exists('sendTelegramMessage')) {
-            sendTelegramMessage('Payment Error: ' . $e->getMessage());
+            sendTelegramMessage('Payment Error: ' . $safe_error_message);
         }
-        wp_send_json_error(['message' => $e->getMessage()]);
+
+        wp_send_json_error(['message' => $safe_error_message]);
     }
 }
