@@ -98,7 +98,7 @@ function compare_positions($a, $b)
                                     <img src="<?php echo esc_url($img['url']); ?>"
                                          alt="<?php echo esc_attr($img['alt']); ?>">
                                 <?php endif; ?>
-                                <div class="books__button">Create a book</div>
+                                <div class="books__button">Create now</div>
                             </div>
                             <div class="books__subtitle"><?php echo esc_html($term->name); ?></div>
                             <div class="books__description">
