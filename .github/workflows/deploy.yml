@@ -22,4 +22,5 @@ jobs:
             git reset --hard origin/main
             git clean -fd
             docker-compose down
+            docker system prune -f
             docker-compose up -d --build
