@@ -1,4 +1,4 @@
-FROM wordpress:php7.4-apache
+FROM wordpress:php8.3-apache
 
 RUN a2enmod rewrite
 
